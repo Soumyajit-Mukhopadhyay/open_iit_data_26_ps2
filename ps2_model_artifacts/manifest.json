@@ -1,0 +1,62 @@
+{
+  "problem": "PS2 Right-Party-Contact Prediction & Skip-Trace Prioritisation",
+  "primary_deliverable": "health_primary.joblib \u2014 calibrated P(RPC within 14 days) per contact point (daily refresh)",
+  "companion": "rpc_per_attempt_companion.joblib \u2014 live dial-timing",
+  "supporting": [
+    "phone_health_multiclass.joblib",
+    "address_rpc.joblib",
+    "skip_trace_pfind.joblib"
+  ],
+  "hmm": {
+    "file": "hmm_params.npz",
+    "hidden_states": [
+      "borrower_number",
+      "switched_off",
+      "not_borrower_number",
+      "third_party_number",
+      "invalid_number"
+    ],
+    "observed_states": [
+      "RPC",
+      "THIRD_PARTY",
+      "WRONG",
+      "REJECTED",
+      "NO_ANSWER",
+      "UNREACHABLE",
+      "SWITCHED_OFF",
+      "INVALID",
+      "OTHER"
+    ],
+    "decay_half_life_days": 14,
+    "p_stay": 0.995
+  },
+  "state_mapping_rule": "disposition in rpc_* -> RPC; third_party_* -> THIRD_PARTY; wrong_number -> WRONG; invalid_number/number_does_not_exist -> INVALID; network switched_off/not_reachable/busy_rejected/ring_no_answer -> SWITCHED_OFF/UNREACHABLE/REJECTED/NO_ANSWER; else OTHER",
+  "thresholds": {
+    "rpc_keep": 0.15,
+    "suppress_states": [
+      "third_party_recycled",
+      "invalid"
+    ],
+    "suppress_shared_masked_ge": 4,
+    "skip_trace_rule": "EV(trace)=P(find)*outstanding*P(recover)-cost > 0"
+  },
+  "metrics_test": {
+    "health_ROC_AUC": 0.762,
+    "per_attempt_ROC_AUC": 0.7012,
+    "health_PR_AUC": 0.624,
+    "address_ROC_AUC": 0.7146,
+    "skip_pfind_AUC": 0.6377,
+    "gold_borrower_note": "see \u00a712/\u00a716.1"
+  },
+  "usage": "load joblib -> build features in the saved order (categoricals via the saved encoder; state/HMM features via hmm_params + state_mapping_rule) -> calibrated_model.predict_proba",
+  "files": [
+    "health_primary.joblib",
+    "rpc_per_attempt_companion.joblib",
+    "phone_health_multiclass.joblib",
+    "address_rpc.joblib",
+    "skip_trace_pfind.joblib",
+    "hmm_params.npz",
+    "contact_point_scorecard.csv",
+    "manifest.json"
+  ]
+}

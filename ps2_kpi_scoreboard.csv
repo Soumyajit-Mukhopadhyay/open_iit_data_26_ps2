@@ -1,0 +1,20 @@
+PS2 metric,result
+2 · RPC ROC-AUC (deployed / best-in-zoo),0.701 / 0.701
+2 · RPC PR-AUC (base=0.176),0.296  (1.68x lift)
+2 · RPC calibration  Brier / ECE,0.135 / 0.017
+2 · Phone score vs GOLD borrower-number — AUC,0.906
+2 · Forward-window phone-health (14-day) — ROC-AUC,0.762
+1 · RPC per 1000 dials — current rule (all dials),166
+1 · RPC per 1000 dials — model top-50% ranked,262  (+58%)
+1 · RPC per 1000 dials — model top-25% ranked,316  (+90%)
+"1 · Off-policy RPC lift (SNIPS, unbiased)",0.121->0.198  (1.64x)
+3 · Attempts/invalid# — FIXED-rule trigger,15 consecutive fails
+3 · Attempts currently spent per invalid# (mean/median),10.0 / 8
+"3 · Health-model ""invalid"" flag precision (act early)",0.96
+4 · Skip-trace P(find) classifier — holdout AUC,0.638
+4 · Skip-trace hit rate (found new valid point),22.8%
+4 · Recovery in first 50% of trace budget: EV vs fixed,Rs.219.4L vs Rs.102.6L (2.14x)
+4 · Positive-EV share of traces,85%
+"5 · Third-party touches in log (today, no suppression)",3691
+5 · Phones on compliance SUPPRESSION list (model),1242  (future 3rd-party disclosure on these = 0)
+B · Phone-health acc: hold-out / gold-state / gold valid-vs-invalid,93% / 70% / 90%

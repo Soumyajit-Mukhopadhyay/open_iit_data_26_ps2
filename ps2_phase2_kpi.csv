@@ -1,0 +1,9 @@
+PS2 phase-2 metric,result
+① RPC per 100 FIELD visits — current vs model top-50%%,23 -> 32  (+37%)
+② Address RPC — ROC-AUC / PR-AUC / Brier,0.715 / 0.575 / 0.134
+③ Visits spent per invalid address before action (mean/median),4.5 / 4  (fixed rule acts only after repeat visits)
+④ Location confidence — baseline geocoder error vs surveyed gold,median 376m / p90 839m (to beat via PS3)
+④ Location conf separates hard_to_find vs occupied (mean),0.34 vs 0.70
+⑤ Third-party-at-door (met_family) touches — confirm-before-disclose,1062 flagged for borrower-confirmation
+↔ Unified decision: accounts routed to field vs trace,"{'call_phone': 1741, 'field_visit': 352, 'trace': 250, 'trace_new_address': 57}"
+↔ PS1 cross-signal: self-answered calls are RPC,97% (clean borrower-reached label)

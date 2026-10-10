@@ -1,0 +1,2369 @@
+account_id,action,target_phone,score,reason
+AC000001,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000002,continue,PH000613,0.171,best-number RPC-propensity above threshold
+AC000003,continue,PH000615,0.21,best-number RPC-propensity above threshold
+AC000004,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000005,continue,PH000620,0.21,best-number RPC-propensity above threshold
+AC000006,continue,PH000622,0.21,best-number RPC-propensity above threshold
+AC000007,continue,PH000625,0.174,best-number RPC-propensity above threshold
+AC000008,continue,PH000627,0.257,best-number RPC-propensity above threshold
+AC000009,continue,PH000631,0.171,best-number RPC-propensity above threshold
+AC000010,continue,PH000632,0.257,best-number RPC-propensity above threshold
+AC000011,continue,PH000635,0.174,best-number RPC-propensity above threshold
+AC000012,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000013,continue,PH000639,0.237,best-number RPC-propensity above threshold
+AC000014,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000015,continue,PH000643,0.174,best-number RPC-propensity above threshold
+AC000017,continue,PH000648,0.375,best-number RPC-propensity above threshold
+AC000018,continue,PH000651,0.237,best-number RPC-propensity above threshold
+AC000019,continue,PH000654,0.375,best-number RPC-propensity above threshold
+AC000020,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000021,continue,PH000658,0.257,best-number RPC-propensity above threshold
+AC000022,continue,PH000659,0.221,best-number RPC-propensity above threshold
+AC000023,continue,PH000661,0.257,best-number RPC-propensity above threshold
+AC000024,continue,PH000663,0.271,best-number RPC-propensity above threshold
+AC000025,continue,PH005861,0.174,best-number RPC-propensity above threshold
+AC000026,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000027,continue,PH000671,0.182,best-number RPC-propensity above threshold
+AC000028,continue,PH000675,0.221,best-number RPC-propensity above threshold
+AC000029,continue,PH000676,0.234,best-number RPC-propensity above threshold
+AC000030,continue,PH000679,0.375,best-number RPC-propensity above threshold
+AC000031,continue,PH000682,0.182,best-number RPC-propensity above threshold
+AC000032,continue,PH000686,0.221,best-number RPC-propensity above threshold
+AC000033,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000034,continue,PH000689,0.257,best-number RPC-propensity above threshold
+AC000035,continue,PH000691,0.234,best-number RPC-propensity above threshold
+AC000036,continue,PH000693,0.21,best-number RPC-propensity above threshold
+AC000037,continue,PH000697,0.271,best-number RPC-propensity above threshold
+AC000038,continue,PH000699,0.237,best-number RPC-propensity above threshold
+AC000039,continue,PH000700,0.237,best-number RPC-propensity above threshold
+AC000040,continue,PH000702,0.171,best-number RPC-propensity above threshold
+AC000041,continue,PH000703,0.375,best-number RPC-propensity above threshold
+AC000042,continue,PH000706,0.174,best-number RPC-propensity above threshold
+AC000043,continue,PH000708,0.257,best-number RPC-propensity above threshold
+AC000044,continue,PH000712,0.221,best-number RPC-propensity above threshold
+AC000045,continue,PH000714,0.375,best-number RPC-propensity above threshold
+AC000046,continue,PH000718,0.237,best-number RPC-propensity above threshold
+AC000047,continue,PH000720,0.21,best-number RPC-propensity above threshold
+AC000048,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000049,continue,PH000722,0.237,best-number RPC-propensity above threshold
+AC000050,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000051,continue,PH000726,0.174,best-number RPC-propensity above threshold
+AC000052,continue,PH000728,0.237,best-number RPC-propensity above threshold
+AC000053,continue,PH005910,0.221,best-number RPC-propensity above threshold
+AC000054,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000055,continue,PH000735,0.153,best-number RPC-propensity above threshold
+AC000056,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000057,continue,PH005932,0.153,best-number RPC-propensity above threshold
+AC000058,continue,PH000743,0.153,best-number RPC-propensity above threshold
+AC000059,continue,PH000745,0.271,best-number RPC-propensity above threshold
+AC000060,continue,PH000747,0.387,best-number RPC-propensity above threshold
+AC000061,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000062,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000063,continue,PH000754,0.153,best-number RPC-propensity above threshold
+AC000064,continue,PH000756,0.237,best-number RPC-propensity above threshold
+AC000065,continue,PH000758,0.387,best-number RPC-propensity above threshold
+AC000066,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000067,continue,PH000762,0.237,best-number RPC-propensity above threshold
+AC000068,continue,PH000765,0.237,best-number RPC-propensity above threshold
+AC000069,continue,PH000769,0.257,best-number RPC-propensity above threshold
+AC000070,continue,PH000772,0.153,best-number RPC-propensity above threshold
+AC000071,continue,PH000773,0.271,best-number RPC-propensity above threshold
+AC000072,continue,PH000775,0.174,best-number RPC-propensity above threshold
+AC000073,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000074,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000075,continue,PH000782,0.375,best-number RPC-propensity above threshold
+AC000076,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000077,continue,PH005825,0.221,best-number RPC-propensity above threshold
+AC000078,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000079,continue,PH005827,0.171,best-number RPC-propensity above threshold
+AC000080,continue,PH000789,0.237,best-number RPC-propensity above threshold
+AC000081,continue,PH000792,0.153,best-number RPC-propensity above threshold
+AC000082,continue,PH000793,0.271,best-number RPC-propensity above threshold
+AC000083,continue,PH000797,0.237,best-number RPC-propensity above threshold
+AC000084,continue,PH000799,0.171,best-number RPC-propensity above threshold
+AC000085,continue,PH000802,0.375,best-number RPC-propensity above threshold
+AC000086,continue,PH000806,0.21,best-number RPC-propensity above threshold
+AC000087,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000088,continue,PH000812,0.153,best-number RPC-propensity above threshold
+AC000089,continue,PH000814,0.237,best-number RPC-propensity above threshold
+AC000090,continue,PH000817,0.153,best-number RPC-propensity above threshold
+AC000091,continue,PH000818,0.21,best-number RPC-propensity above threshold
+AC000092,continue,PH000822,0.221,best-number RPC-propensity above threshold
+AC000093,continue,PH000825,0.21,best-number RPC-propensity above threshold
+AC000094,continue,PH000826,0.257,best-number RPC-propensity above threshold
+AC000095,continue,PH000828,0.174,best-number RPC-propensity above threshold
+AC000096,continue,PH000831,0.387,best-number RPC-propensity above threshold
+AC000097,continue,PH000834,0.153,best-number RPC-propensity above threshold
+AC000098,continue,PH000837,0.182,best-number RPC-propensity above threshold
+AC000100,continue,PH000842,0.221,best-number RPC-propensity above threshold
+AC000101,continue,PH000843,0.237,best-number RPC-propensity above threshold
+AC000102,continue,PH000844,0.21,best-number RPC-propensity above threshold
+AC000103,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000104,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000105,continue,PH000849,0.237,best-number RPC-propensity above threshold
+AC000107,continue,PH000853,0.257,best-number RPC-propensity above threshold
+AC000108,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000109,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000110,continue,PH000858,0.221,best-number RPC-propensity above threshold
+AC000111,continue,PH000861,0.153,best-number RPC-propensity above threshold
+AC000112,continue,PH000862,0.221,best-number RPC-propensity above threshold
+AC000113,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000114,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000115,continue,PH000867,0.221,best-number RPC-propensity above threshold
+AC000116,continue,PH000870,0.21,best-number RPC-propensity above threshold
+AC000117,continue,PH000871,0.221,best-number RPC-propensity above threshold
+AC000118,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000119,continue,PH000875,0.237,best-number RPC-propensity above threshold
+AC000120,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000121,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000122,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000123,continue,PH000884,0.174,best-number RPC-propensity above threshold
+AC000124,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000125,continue,PH000890,0.174,best-number RPC-propensity above threshold
+AC000126,continue,PH000891,0.171,best-number RPC-propensity above threshold
+AC000127,continue,PH000892,0.237,best-number RPC-propensity above threshold
+AC000128,continue,PH000895,0.387,best-number RPC-propensity above threshold
+AC000129,continue,PH000898,0.153,best-number RPC-propensity above threshold
+AC000130,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000131,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000132,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000133,continue,PH000908,0.21,best-number RPC-propensity above threshold
+AC000134,continue,PH000909,0.271,best-number RPC-propensity above threshold
+AC000135,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000136,continue,PH000914,0.271,best-number RPC-propensity above threshold
+AC000137,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000138,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000139,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000140,continue,PH000919,0.271,best-number RPC-propensity above threshold
+AC000141,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000142,continue,PH000922,0.153,best-number RPC-propensity above threshold
+AC000143,continue,PH000924,0.257,best-number RPC-propensity above threshold
+AC000144,continue,PH000926,0.257,best-number RPC-propensity above threshold
+AC000145,continue,PH000929,0.171,best-number RPC-propensity above threshold
+AC000146,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000147,continue,PH000931,0.387,best-number RPC-propensity above threshold
+AC000148,continue,PH000935,0.174,best-number RPC-propensity above threshold
+AC000149,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000150,continue,PH000938,0.375,best-number RPC-propensity above threshold
+AC000151,continue,PH000939,0.271,best-number RPC-propensity above threshold
+AC000152,continue,PH005872,0.237,best-number RPC-propensity above threshold
+AC000153,continue,PH005832,0.375,best-number RPC-propensity above threshold
+AC000154,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000155,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000156,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000157,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000158,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000159,continue,PH000956,0.271,best-number RPC-propensity above threshold
+AC000160,continue,PH000957,0.237,best-number RPC-propensity above threshold
+AC000161,continue,PH000958,0.21,best-number RPC-propensity above threshold
+AC000162,continue,PH000961,0.153,best-number RPC-propensity above threshold
+AC000163,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000164,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000165,continue,PH000970,0.21,best-number RPC-propensity above threshold
+AC000166,continue,PH000972,0.21,best-number RPC-propensity above threshold
+AC000167,continue,PH000973,0.153,best-number RPC-propensity above threshold
+AC000168,continue,PH000976,0.375,best-number RPC-propensity above threshold
+AC000169,continue,PH000978,0.171,best-number RPC-propensity above threshold
+AC000170,continue,PH000979,0.237,best-number RPC-propensity above threshold
+AC000171,continue,PH000981,0.375,best-number RPC-propensity above threshold
+AC000172,continue,PH000985,0.271,best-number RPC-propensity above threshold
+AC000173,continue,PH000988,0.153,best-number RPC-propensity above threshold
+AC000174,continue,PH000991,0.221,best-number RPC-propensity above threshold
+AC000175,continue,PH000993,0.237,best-number RPC-propensity above threshold
+AC000176,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000177,continue,PH000997,0.375,best-number RPC-propensity above threshold
+AC000178,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000179,switch_channel,PH001002,0.056,valid but avoiding -> WhatsApp/field instead of redial
+AC000180,continue,PH001004,0.257,best-number RPC-propensity above threshold
+AC000181,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000182,continue,PH001008,0.257,best-number RPC-propensity above threshold
+AC000183,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000184,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000185,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000186,continue,PH001019,0.237,best-number RPC-propensity above threshold
+AC000187,continue,PH005935,0.237,best-number RPC-propensity above threshold
+AC000188,continue,PH001022,0.237,best-number RPC-propensity above threshold
+AC000189,continue,PH001024,0.257,best-number RPC-propensity above threshold
+AC000190,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000191,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000192,continue,PH001032,0.153,best-number RPC-propensity above threshold
+AC000193,continue,PH001033,0.271,best-number RPC-propensity above threshold
+AC000194,continue,PH001036,0.387,best-number RPC-propensity above threshold
+AC000195,continue,PH001039,0.221,best-number RPC-propensity above threshold
+AC000196,continue,PH005873,0.375,best-number RPC-propensity above threshold
+AC000197,continue,PH001043,0.171,best-number RPC-propensity above threshold
+AC000198,continue,PH001045,0.153,best-number RPC-propensity above threshold
+AC000199,continue,PH001047,0.257,best-number RPC-propensity above threshold
+AC000200,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000201,continue,PH001050,0.237,best-number RPC-propensity above threshold
+AC000202,continue,PH001052,0.271,best-number RPC-propensity above threshold
+AC000203,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000204,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000205,continue,PH001056,0.21,best-number RPC-propensity above threshold
+AC000206,continue,PH001059,0.375,best-number RPC-propensity above threshold
+AC000207,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000208,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000209,continue,PH001067,0.237,best-number RPC-propensity above threshold
+AC000210,continue,PH001069,0.174,best-number RPC-propensity above threshold
+AC000211,continue,PH005915,0.221,best-number RPC-propensity above threshold
+AC000212,continue,PH001072,0.221,best-number RPC-propensity above threshold
+AC000213,continue,PH001075,0.153,best-number RPC-propensity above threshold
+AC000214,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000215,continue,PH001078,0.375,best-number RPC-propensity above threshold
+AC000216,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000217,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000218,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000219,continue,PH001089,0.234,best-number RPC-propensity above threshold
+AC000220,continue,PH001091,0.21,best-number RPC-propensity above threshold
+AC000221,continue,PH001093,0.375,best-number RPC-propensity above threshold
+AC000222,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000223,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000224,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000225,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000226,continue,PH001103,0.257,best-number RPC-propensity above threshold
+AC000227,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000228,continue,PH001107,0.234,best-number RPC-propensity above threshold
+AC000229,continue,PH001108,0.21,best-number RPC-propensity above threshold
+AC000230,continue,PH001111,0.21,best-number RPC-propensity above threshold
+AC000231,continue,PH001114,0.387,best-number RPC-propensity above threshold
+AC000232,continue,PH001116,0.237,best-number RPC-propensity above threshold
+AC000233,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000234,continue,PH001119,0.257,best-number RPC-propensity above threshold
+AC000235,continue,PH001121,0.387,best-number RPC-propensity above threshold
+AC000236,continue,PH001123,0.375,best-number RPC-propensity above threshold
+AC000237,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000238,continue,PH001127,0.257,best-number RPC-propensity above threshold
+AC000239,continue,PH005897,0.257,best-number RPC-propensity above threshold
+AC000240,continue,PH001131,0.257,best-number RPC-propensity above threshold
+AC000242,continue,PH001136,0.387,best-number RPC-propensity above threshold
+AC000243,continue,PH001139,0.21,best-number RPC-propensity above threshold
+AC000244,continue,PH001140,0.257,best-number RPC-propensity above threshold
+AC000245,continue,PH001142,0.237,best-number RPC-propensity above threshold
+AC000246,continue,PH001144,0.21,best-number RPC-propensity above threshold
+AC000247,continue,PH001146,0.375,best-number RPC-propensity above threshold
+AC000248,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000249,continue,PH001151,0.375,best-number RPC-propensity above threshold
+AC000250,continue,PH001152,0.271,best-number RPC-propensity above threshold
+AC000251,continue,PH001155,0.21,best-number RPC-propensity above threshold
+AC000252,continue,PH001157,0.221,best-number RPC-propensity above threshold
+AC000253,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000254,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000255,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000256,continue,PH001165,0.153,best-number RPC-propensity above threshold
+AC000257,continue,PH001166,0.257,best-number RPC-propensity above threshold
+AC000258,continue,PH001169,0.257,best-number RPC-propensity above threshold
+AC000259,continue,PH001170,0.237,best-number RPC-propensity above threshold
+AC000260,continue,PH005926,0.21,best-number RPC-propensity above threshold
+AC000261,continue,PH001173,0.257,best-number RPC-propensity above threshold
+AC000262,continue,PH001175,0.21,best-number RPC-propensity above threshold
+AC000263,continue,PH001177,0.171,best-number RPC-propensity above threshold
+AC000264,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000265,continue,PH001180,0.153,best-number RPC-propensity above threshold
+AC000266,continue,PH001183,0.387,best-number RPC-propensity above threshold
+AC000267,continue,PH005866,0.182,best-number RPC-propensity above threshold
+AC000269,continue,PH001188,0.257,best-number RPC-propensity above threshold
+AC000270,continue,PH001190,0.257,best-number RPC-propensity above threshold
+AC000271,continue,PH001192,0.21,best-number RPC-propensity above threshold
+AC000272,continue,PH001195,0.237,best-number RPC-propensity above threshold
+AC000273,continue,PH005887,0.271,best-number RPC-propensity above threshold
+AC000274,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000275,continue,PH001202,0.375,best-number RPC-propensity above threshold
+AC000276,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000277,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000278,continue,PH001208,0.171,best-number RPC-propensity above threshold
+AC000279,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000280,continue,PH001213,0.387,best-number RPC-propensity above threshold
+AC000281,continue,PH001215,0.257,best-number RPC-propensity above threshold
+AC000282,continue,PH001216,0.21,best-number RPC-propensity above threshold
+AC000283,continue,PH001220,0.237,best-number RPC-propensity above threshold
+AC000284,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000285,continue,PH005811,0.271,best-number RPC-propensity above threshold
+AC000286,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000287,continue,PH001227,0.237,best-number RPC-propensity above threshold
+AC000288,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000289,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000290,continue,PH001231,0.271,best-number RPC-propensity above threshold
+AC000291,continue,PH001233,0.237,best-number RPC-propensity above threshold
+AC000292,continue,PH001234,0.171,best-number RPC-propensity above threshold
+AC000293,continue,PH001236,0.375,best-number RPC-propensity above threshold
+AC000294,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000295,continue,PH001239,0.153,best-number RPC-propensity above threshold
+AC000296,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000297,continue,PH001242,0.221,best-number RPC-propensity above threshold
+AC000298,continue,PH001245,0.257,best-number RPC-propensity above threshold
+AC000299,continue,PH001247,0.171,best-number RPC-propensity above threshold
+AC000300,continue,PH001249,0.174,best-number RPC-propensity above threshold
+AC000301,continue,PH001252,0.171,best-number RPC-propensity above threshold
+AC000302,continue,PH001254,0.237,best-number RPC-propensity above threshold
+AC000303,continue,PH001256,0.153,best-number RPC-propensity above threshold
+AC000304,continue,PH001259,0.221,best-number RPC-propensity above threshold
+AC000305,continue,PH001260,0.21,best-number RPC-propensity above threshold
+AC000306,continue,PH001262,0.375,best-number RPC-propensity above threshold
+AC000307,continue,PH005845,0.257,best-number RPC-propensity above threshold
+AC000308,continue,PH001266,0.153,best-number RPC-propensity above threshold
+AC000309,continue,PH001267,0.237,best-number RPC-propensity above threshold
+AC000310,continue,PH005842,0.21,best-number RPC-propensity above threshold
+AC000311,continue,PH001271,0.21,best-number RPC-propensity above threshold
+AC000312,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000313,continue,PH001274,0.387,best-number RPC-propensity above threshold
+AC000314,continue,PH001276,0.21,best-number RPC-propensity above threshold
+AC000315,continue,PH001277,0.21,best-number RPC-propensity above threshold
+AC000316,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000317,continue,PH001282,0.153,best-number RPC-propensity above threshold
+AC000318,continue,PH001283,0.257,best-number RPC-propensity above threshold
+AC000319,continue,PH001285,0.375,best-number RPC-propensity above threshold
+AC000320,continue,PH001288,0.271,best-number RPC-propensity above threshold
+AC000321,continue,PH001290,0.21,best-number RPC-propensity above threshold
+AC000322,continue,PH001291,0.221,best-number RPC-propensity above threshold
+AC000323,continue,PH001293,0.234,best-number RPC-propensity above threshold
+AC000324,continue,PH001297,0.153,best-number RPC-propensity above threshold
+AC000325,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000326,continue,PH001300,0.271,best-number RPC-propensity above threshold
+AC000327,continue,PH001303,0.153,best-number RPC-propensity above threshold
+AC000328,continue,PH001305,0.153,best-number RPC-propensity above threshold
+AC000329,continue,PH001306,0.174,best-number RPC-propensity above threshold
+AC000330,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000331,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000332,continue,PH001312,0.375,best-number RPC-propensity above threshold
+AC000333,continue,PH001313,0.257,best-number RPC-propensity above threshold
+AC000334,continue,PH001316,0.221,best-number RPC-propensity above threshold
+AC000335,continue,PH001319,0.153,best-number RPC-propensity above threshold
+AC000336,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000337,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000338,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000339,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000340,continue,PH001328,0.237,best-number RPC-propensity above threshold
+AC000341,continue,PH001331,0.21,best-number RPC-propensity above threshold
+AC000342,continue,PH001333,0.271,best-number RPC-propensity above threshold
+AC000343,continue,PH005879,0.21,best-number RPC-propensity above threshold
+AC000345,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000346,continue,PH001342,0.21,best-number RPC-propensity above threshold
+AC000347,continue,PH001345,0.271,best-number RPC-propensity above threshold
+AC000348,continue,PH005813,0.171,best-number RPC-propensity above threshold
+AC000349,continue,PH001348,0.21,best-number RPC-propensity above threshold
+AC000350,continue,PH001352,0.271,best-number RPC-propensity above threshold
+AC000351,continue,PH001353,0.257,best-number RPC-propensity above threshold
+AC000352,continue,PH001354,0.257,best-number RPC-propensity above threshold
+AC000353,continue,PH001356,0.387,best-number RPC-propensity above threshold
+AC000354,continue,PH001360,0.171,best-number RPC-propensity above threshold
+AC000355,continue,PH001362,0.221,best-number RPC-propensity above threshold
+AC000356,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000357,continue,PH001367,0.387,best-number RPC-propensity above threshold
+AC000358,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000359,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000360,continue,PH001374,0.21,best-number RPC-propensity above threshold
+AC000361,continue,PH005909,0.21,best-number RPC-propensity above threshold
+AC000362,continue,PH001379,0.271,best-number RPC-propensity above threshold
+AC000363,continue,PH001380,0.375,best-number RPC-propensity above threshold
+AC000364,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000365,continue,PH001384,0.21,best-number RPC-propensity above threshold
+AC000366,continue,PH001387,0.257,best-number RPC-propensity above threshold
+AC000367,continue,PH001391,0.21,best-number RPC-propensity above threshold
+AC000368,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000369,continue,PH001397,0.153,best-number RPC-propensity above threshold
+AC000370,continue,PH001399,0.174,best-number RPC-propensity above threshold
+AC000371,continue,PH001401,0.221,best-number RPC-propensity above threshold
+AC000372,continue,PH001403,0.257,best-number RPC-propensity above threshold
+AC000373,continue,PH001405,0.375,best-number RPC-propensity above threshold
+AC000374,continue,PH001408,0.387,best-number RPC-propensity above threshold
+AC000375,continue,PH001411,0.21,best-number RPC-propensity above threshold
+AC000376,continue,PH001415,0.221,best-number RPC-propensity above threshold
+AC000377,continue,PH001416,0.237,best-number RPC-propensity above threshold
+AC000378,continue,PH001420,0.375,best-number RPC-propensity above threshold
+AC000379,continue,PH001422,1.0,best-number RPC-propensity above threshold
+AC000380,continue,PH001425,0.221,best-number RPC-propensity above threshold
+AC000381,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000382,continue,PH001429,0.237,best-number RPC-propensity above threshold
+AC000383,continue,PH001430,0.237,best-number RPC-propensity above threshold
+AC000384,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000385,continue,PH001435,0.237,best-number RPC-propensity above threshold
+AC000386,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000387,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000388,continue,PH001443,0.237,best-number RPC-propensity above threshold
+AC000389,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000390,continue,PH001447,0.257,best-number RPC-propensity above threshold
+AC000391,continue,PH001449,0.171,best-number RPC-propensity above threshold
+AC000392,continue,PH001451,0.174,best-number RPC-propensity above threshold
+AC000393,continue,PH001453,0.237,best-number RPC-propensity above threshold
+AC000394,continue,PH001456,0.257,best-number RPC-propensity above threshold
+AC000395,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000396,continue,PH001458,0.257,best-number RPC-propensity above threshold
+AC000397,continue,PH001460,0.387,best-number RPC-propensity above threshold
+AC000398,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000399,continue,PH001465,0.257,best-number RPC-propensity above threshold
+AC000400,continue,PH001469,0.257,best-number RPC-propensity above threshold
+AC000401,continue,PH005862,0.171,best-number RPC-propensity above threshold
+AC000402,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000403,continue,PH001476,0.21,best-number RPC-propensity above threshold
+AC000404,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000405,continue,PH001480,0.153,best-number RPC-propensity above threshold
+AC000406,continue,PH001481,0.174,best-number RPC-propensity above threshold
+AC000407,continue,PH001483,0.271,best-number RPC-propensity above threshold
+AC000408,continue,PH001486,0.153,best-number RPC-propensity above threshold
+AC000409,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000410,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000411,continue,PH001494,0.171,best-number RPC-propensity above threshold
+AC000413,continue,PH001500,0.21,best-number RPC-propensity above threshold
+AC000414,continue,PH001502,0.21,best-number RPC-propensity above threshold
+AC000415,continue,PH001504,0.257,best-number RPC-propensity above threshold
+AC000416,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000417,continue,PH001507,0.234,best-number RPC-propensity above threshold
+AC000418,continue,PH001510,0.153,best-number RPC-propensity above threshold
+AC000419,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000420,continue,PH001515,0.153,best-number RPC-propensity above threshold
+AC000421,continue,PH001519,0.237,best-number RPC-propensity above threshold
+AC000422,continue,PH001521,0.243,best-number RPC-propensity above threshold
+AC000423,continue,PH001525,0.237,best-number RPC-propensity above threshold
+AC000424,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000425,continue,PH001529,0.182,best-number RPC-propensity above threshold
+AC000426,continue,PH001531,0.375,best-number RPC-propensity above threshold
+AC000427,continue,PH001535,0.21,best-number RPC-propensity above threshold
+AC000428,continue,PH001538,0.153,best-number RPC-propensity above threshold
+AC000429,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000430,continue,PH001542,0.257,best-number RPC-propensity above threshold
+AC000431,continue,PH001543,0.221,best-number RPC-propensity above threshold
+AC000432,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000433,continue,PH001548,0.271,best-number RPC-propensity above threshold
+AC000434,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000435,continue,PH001551,0.237,best-number RPC-propensity above threshold
+AC000436,continue,PH001554,0.21,best-number RPC-propensity above threshold
+AC000437,continue,PH001555,0.21,best-number RPC-propensity above threshold
+AC000438,continue,PH001557,0.21,best-number RPC-propensity above threshold
+AC000439,continue,PH001559,0.387,best-number RPC-propensity above threshold
+AC000440,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000441,continue,PH001564,0.387,best-number RPC-propensity above threshold
+AC000442,continue,PH001566,0.153,best-number RPC-propensity above threshold
+AC000443,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000444,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000445,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000446,continue,PH005850,0.21,best-number RPC-propensity above threshold
+AC000447,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000448,continue,PH001578,0.375,best-number RPC-propensity above threshold
+AC000449,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000450,continue,PH001583,0.21,best-number RPC-propensity above threshold
+AC000451,continue,PH001584,0.153,best-number RPC-propensity above threshold
+AC000452,continue,PH001585,0.375,best-number RPC-propensity above threshold
+AC000453,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000454,continue,PH001592,0.174,best-number RPC-propensity above threshold
+AC000455,continue,PH001594,0.257,best-number RPC-propensity above threshold
+AC000456,continue,PH001596,0.387,best-number RPC-propensity above threshold
+AC000457,continue,PH001598,0.153,best-number RPC-propensity above threshold
+AC000458,continue,PH001601,0.237,best-number RPC-propensity above threshold
+AC000459,continue,PH001603,0.174,best-number RPC-propensity above threshold
+AC000460,continue,PH001605,0.153,best-number RPC-propensity above threshold
+AC000461,continue,PH001607,0.171,best-number RPC-propensity above threshold
+AC000462,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000463,continue,PH001612,0.237,best-number RPC-propensity above threshold
+AC000464,continue,PH001614,0.237,best-number RPC-propensity above threshold
+AC000465,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000466,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000467,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000469,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000470,continue,PH001626,0.153,best-number RPC-propensity above threshold
+AC000472,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000473,continue,PH001634,0.257,best-number RPC-propensity above threshold
+AC000474,continue,PH001637,0.171,best-number RPC-propensity above threshold
+AC000475,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000476,continue,PH001641,0.237,best-number RPC-propensity above threshold
+AC000477,continue,PH001644,0.174,best-number RPC-propensity above threshold
+AC000478,continue,PH001647,0.237,best-number RPC-propensity above threshold
+AC000479,continue,PH001649,0.271,best-number RPC-propensity above threshold
+AC000480,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000481,continue,PH001654,0.257,best-number RPC-propensity above threshold
+AC000482,continue,PH001656,0.171,best-number RPC-propensity above threshold
+AC000483,continue,PH001658,0.237,best-number RPC-propensity above threshold
+AC000484,continue,PH001659,0.21,best-number RPC-propensity above threshold
+AC000485,continue,PH001662,0.375,best-number RPC-propensity above threshold
+AC000486,continue,PH001664,0.21,best-number RPC-propensity above threshold
+AC000487,continue,PH001665,0.21,best-number RPC-propensity above threshold
+AC000488,continue,PH001668,0.375,best-number RPC-propensity above threshold
+AC000489,continue,PH001669,0.21,best-number RPC-propensity above threshold
+AC000490,continue,PH001672,0.171,best-number RPC-propensity above threshold
+AC000491,continue,PH001674,0.387,best-number RPC-propensity above threshold
+AC000492,continue,PH001676,0.21,best-number RPC-propensity above threshold
+AC000493,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000494,continue,PH001680,0.153,best-number RPC-propensity above threshold
+AC000495,continue,PH001683,0.375,best-number RPC-propensity above threshold
+AC000496,continue,PH001685,0.237,best-number RPC-propensity above threshold
+AC000497,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000498,continue,PH001689,0.271,best-number RPC-propensity above threshold
+AC000499,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000500,continue,PH001692,0.153,best-number RPC-propensity above threshold
+AC000501,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000502,continue,PH001696,0.375,best-number RPC-propensity above threshold
+AC000503,continue,PH001700,0.21,best-number RPC-propensity above threshold
+AC000504,continue,PH001702,0.153,best-number RPC-propensity above threshold
+AC000505,continue,PH001704,0.153,best-number RPC-propensity above threshold
+AC000506,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000507,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000508,continue,PH001708,0.153,best-number RPC-propensity above threshold
+AC000509,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000510,continue,PH001713,0.271,best-number RPC-propensity above threshold
+AC000511,continue,PH001716,0.257,best-number RPC-propensity above threshold
+AC000512,continue,PH001719,0.221,best-number RPC-propensity above threshold
+AC000513,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000514,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000515,continue,PH001726,0.153,best-number RPC-propensity above threshold
+AC000516,continue,PH001727,0.257,best-number RPC-propensity above threshold
+AC000517,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000518,continue,PH001731,0.237,best-number RPC-propensity above threshold
+AC000519,continue,PH001733,0.153,best-number RPC-propensity above threshold
+AC000520,continue,PH001734,0.387,best-number RPC-propensity above threshold
+AC000521,continue,PH001737,0.387,best-number RPC-propensity above threshold
+AC000522,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000523,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000524,continue,PH001744,0.271,best-number RPC-propensity above threshold
+AC000525,continue,PH001748,0.182,best-number RPC-propensity above threshold
+AC000526,continue,PH001749,0.375,best-number RPC-propensity above threshold
+AC000527,continue,PH001751,0.153,best-number RPC-propensity above threshold
+AC000528,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000529,continue,PH001756,0.237,best-number RPC-propensity above threshold
+AC000530,continue,PH001761,0.271,best-number RPC-propensity above threshold
+AC000531,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000532,continue,PH001765,0.237,best-number RPC-propensity above threshold
+AC000533,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000534,continue,PH001770,0.174,best-number RPC-propensity above threshold
+AC000535,continue,PH001771,0.387,best-number RPC-propensity above threshold
+AC000536,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000537,continue,PH001776,0.257,best-number RPC-propensity above threshold
+AC000538,continue,PH001777,0.21,best-number RPC-propensity above threshold
+AC000539,continue,PH001778,0.21,best-number RPC-propensity above threshold
+AC000540,continue,PH001780,0.153,best-number RPC-propensity above threshold
+AC000541,continue,PH001784,0.153,best-number RPC-propensity above threshold
+AC000542,continue,PH001786,0.234,best-number RPC-propensity above threshold
+AC000543,continue,PH001788,0.237,best-number RPC-propensity above threshold
+AC000544,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000545,continue,PH001794,0.237,best-number RPC-propensity above threshold
+AC000546,continue,PH001796,0.21,best-number RPC-propensity above threshold
+AC000547,continue,PH001798,0.271,best-number RPC-propensity above threshold
+AC000548,continue,PH001800,0.21,best-number RPC-propensity above threshold
+AC000549,continue,PH001802,0.21,best-number RPC-propensity above threshold
+AC000550,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000551,continue,PH001809,0.21,best-number RPC-propensity above threshold
+AC000552,continue,PH001810,0.21,best-number RPC-propensity above threshold
+AC000553,continue,PH001813,0.171,best-number RPC-propensity above threshold
+AC000554,continue,PH001816,0.171,best-number RPC-propensity above threshold
+AC000555,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000556,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000557,continue,PH001825,0.221,best-number RPC-propensity above threshold
+AC000558,continue,PH001828,0.171,best-number RPC-propensity above threshold
+AC000559,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000560,continue,PH001832,0.174,best-number RPC-propensity above threshold
+AC000561,continue,PH001836,0.21,best-number RPC-propensity above threshold
+AC000562,continue,PH001837,0.271,best-number RPC-propensity above threshold
+AC000563,continue,PH001839,0.21,best-number RPC-propensity above threshold
+AC000564,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000565,continue,PH005923,0.171,best-number RPC-propensity above threshold
+AC000566,continue,PH001846,0.375,best-number RPC-propensity above threshold
+AC000567,continue,PH005920,0.153,best-number RPC-propensity above threshold
+AC000568,continue,PH001848,0.237,best-number RPC-propensity above threshold
+AC000569,continue,PH001850,0.171,best-number RPC-propensity above threshold
+AC000570,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000571,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000572,continue,PH001856,0.153,best-number RPC-propensity above threshold
+AC000573,continue,PH001857,0.174,best-number RPC-propensity above threshold
+AC000574,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000575,continue,PH001860,0.375,best-number RPC-propensity above threshold
+AC000576,continue,PH001861,0.375,best-number RPC-propensity above threshold
+AC000577,continue,PH001863,0.153,best-number RPC-propensity above threshold
+AC000578,continue,PH001864,0.271,best-number RPC-propensity above threshold
+AC000579,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000580,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000581,continue,PH005927,0.237,best-number RPC-propensity above threshold
+AC000582,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000583,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000584,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000585,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000586,continue,PH001880,0.237,best-number RPC-propensity above threshold
+AC000587,continue,PH001882,0.153,best-number RPC-propensity above threshold
+AC000588,continue,PH001883,0.237,best-number RPC-propensity above threshold
+AC000589,continue,PH001886,0.171,best-number RPC-propensity above threshold
+AC000590,continue,PH001889,0.271,best-number RPC-propensity above threshold
+AC000591,continue,PH001891,1.0,best-number RPC-propensity above threshold
+AC000592,continue,PH001894,0.237,best-number RPC-propensity above threshold
+AC000593,continue,PH001898,0.271,best-number RPC-propensity above threshold
+AC000594,continue,PH001899,0.237,best-number RPC-propensity above threshold
+AC000595,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000596,continue,PH005907,0.21,best-number RPC-propensity above threshold
+AC000597,continue,PH005889,0.237,best-number RPC-propensity above threshold
+AC000598,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000599,continue,PH001907,0.271,best-number RPC-propensity above threshold
+AC000600,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000601,continue,PH001911,0.182,best-number RPC-propensity above threshold
+AC000602,continue,PH001915,0.21,best-number RPC-propensity above threshold
+AC000603,continue,PH001917,0.153,best-number RPC-propensity above threshold
+AC000604,continue,PH001920,0.174,best-number RPC-propensity above threshold
+AC000605,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000606,continue,PH001926,0.153,best-number RPC-propensity above threshold
+AC000607,continue,PH001930,0.21,best-number RPC-propensity above threshold
+AC000608,continue,PH001932,0.171,best-number RPC-propensity above threshold
+AC000609,continue,PH001934,0.153,best-number RPC-propensity above threshold
+AC000610,continue,PH001935,0.237,best-number RPC-propensity above threshold
+AC000611,continue,PH001937,0.387,best-number RPC-propensity above threshold
+AC000612,continue,PH001939,0.153,best-number RPC-propensity above threshold
+AC000614,continue,PH001944,0.171,best-number RPC-propensity above threshold
+AC000615,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000616,continue,PH001950,0.21,best-number RPC-propensity above threshold
+AC000617,continue,PH001953,0.221,best-number RPC-propensity above threshold
+AC000618,continue,PH001955,0.271,best-number RPC-propensity above threshold
+AC000619,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000620,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000621,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000622,continue,PH001961,0.21,best-number RPC-propensity above threshold
+AC000624,continue,PH005921,0.21,best-number RPC-propensity above threshold
+AC000625,continue,PH001968,0.271,best-number RPC-propensity above threshold
+AC000626,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000627,continue,PH001974,0.153,best-number RPC-propensity above threshold
+AC000628,continue,PH001976,0.153,best-number RPC-propensity above threshold
+AC000629,continue,PH001978,0.271,best-number RPC-propensity above threshold
+AC000630,continue,PH001980,0.171,best-number RPC-propensity above threshold
+AC000631,continue,PH001983,0.271,best-number RPC-propensity above threshold
+AC000632,continue,PH001985,0.21,best-number RPC-propensity above threshold
+AC000633,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000634,continue,PH001991,0.387,best-number RPC-propensity above threshold
+AC000635,continue,PH001994,0.21,best-number RPC-propensity above threshold
+AC000636,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000637,continue,PH001998,0.271,best-number RPC-propensity above threshold
+AC000638,continue,PH002000,0.237,best-number RPC-propensity above threshold
+AC000639,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000640,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000641,continue,PH002007,0.257,best-number RPC-propensity above threshold
+AC000642,continue,PH002009,0.387,best-number RPC-propensity above threshold
+AC000643,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000644,continue,PH002014,0.171,best-number RPC-propensity above threshold
+AC000645,continue,PH002016,0.221,best-number RPC-propensity above threshold
+AC000646,continue,PH002018,0.257,best-number RPC-propensity above threshold
+AC000647,continue,PH002021,0.257,best-number RPC-propensity above threshold
+AC000648,continue,PH002022,0.153,best-number RPC-propensity above threshold
+AC000649,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000650,continue,PH002026,0.21,best-number RPC-propensity above threshold
+AC000651,continue,PH002027,0.237,best-number RPC-propensity above threshold
+AC000652,continue,PH002030,0.221,best-number RPC-propensity above threshold
+AC000653,continue,PH002032,0.237,best-number RPC-propensity above threshold
+AC000654,continue,PH002035,0.237,best-number RPC-propensity above threshold
+AC000655,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000656,continue,PH002039,0.153,best-number RPC-propensity above threshold
+AC000657,continue,PH002042,0.375,best-number RPC-propensity above threshold
+AC000658,continue,PH002045,0.21,best-number RPC-propensity above threshold
+AC000659,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000660,continue,PH002049,0.257,best-number RPC-propensity above threshold
+AC000661,continue,PH002051,0.171,best-number RPC-propensity above threshold
+AC000662,continue,PH002053,0.153,best-number RPC-propensity above threshold
+AC000663,continue,PH002056,0.174,best-number RPC-propensity above threshold
+AC000664,continue,PH002058,0.237,best-number RPC-propensity above threshold
+AC000665,continue,PH002061,0.237,best-number RPC-propensity above threshold
+AC000666,continue,PH002063,0.271,best-number RPC-propensity above threshold
+AC000667,continue,PH002066,0.375,best-number RPC-propensity above threshold
+AC000668,continue,PH002070,0.174,best-number RPC-propensity above threshold
+AC000669,continue,PH002072,0.174,best-number RPC-propensity above threshold
+AC000670,continue,PH002075,0.375,best-number RPC-propensity above threshold
+AC000671,continue,PH002077,0.237,best-number RPC-propensity above threshold
+AC000672,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000673,continue,PH005846,0.221,best-number RPC-propensity above threshold
+AC000674,continue,PH002084,0.271,best-number RPC-propensity above threshold
+AC000675,continue,PH002086,0.21,best-number RPC-propensity above threshold
+AC000676,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000677,continue,PH002091,0.21,best-number RPC-propensity above threshold
+AC000678,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000679,continue,PH002095,0.221,best-number RPC-propensity above threshold
+AC000680,continue,PH002096,0.153,best-number RPC-propensity above threshold
+AC000681,continue,PH002098,0.174,best-number RPC-propensity above threshold
+AC000682,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000683,continue,PH002102,0.257,best-number RPC-propensity above threshold
+AC000684,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000685,continue,PH002107,0.237,best-number RPC-propensity above threshold
+AC000686,continue,PH002108,0.21,best-number RPC-propensity above threshold
+AC000687,continue,PH002109,0.271,best-number RPC-propensity above threshold
+AC000688,continue,PH002113,0.237,best-number RPC-propensity above threshold
+AC000689,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000690,continue,PH002116,0.257,best-number RPC-propensity above threshold
+AC000691,continue,PH002117,0.257,best-number RPC-propensity above threshold
+AC000692,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000693,continue,PH002120,0.171,best-number RPC-propensity above threshold
+AC000694,continue,PH002123,0.375,best-number RPC-propensity above threshold
+AC000695,continue,PH002126,0.237,best-number RPC-propensity above threshold
+AC000696,continue,PH002127,0.237,best-number RPC-propensity above threshold
+AC000697,continue,PH002129,0.153,best-number RPC-propensity above threshold
+AC000698,continue,PH002130,0.387,best-number RPC-propensity above threshold
+AC000699,continue,PH002132,0.237,best-number RPC-propensity above threshold
+AC000700,continue,PH002135,0.237,best-number RPC-propensity above threshold
+AC000701,continue,PH002138,0.171,best-number RPC-propensity above threshold
+AC000702,continue,PH002140,0.375,best-number RPC-propensity above threshold
+AC000703,continue,PH002142,0.171,best-number RPC-propensity above threshold
+AC000704,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000705,continue,PH002145,0.153,best-number RPC-propensity above threshold
+AC000706,continue,PH002148,0.221,best-number RPC-propensity above threshold
+AC000707,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000708,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000709,continue,PH002156,0.237,best-number RPC-propensity above threshold
+AC000710,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000711,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000712,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000713,continue,PH002165,0.21,best-number RPC-propensity above threshold
+AC000714,continue,PH002167,0.21,best-number RPC-propensity above threshold
+AC000715,continue,PH002171,0.21,best-number RPC-propensity above threshold
+AC000717,continue,PH002174,0.257,best-number RPC-propensity above threshold
+AC000718,continue,PH002176,0.387,best-number RPC-propensity above threshold
+AC000719,continue,PH002178,0.174,best-number RPC-propensity above threshold
+AC000720,continue,PH002182,0.171,best-number RPC-propensity above threshold
+AC000721,continue,PH002185,0.237,best-number RPC-propensity above threshold
+AC000722,continue,PH002188,0.257,best-number RPC-propensity above threshold
+AC000723,continue,PH002190,0.21,best-number RPC-propensity above threshold
+AC000724,continue,PH002193,0.221,best-number RPC-propensity above threshold
+AC000725,continue,PH005822,0.153,best-number RPC-propensity above threshold
+AC000726,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000727,continue,PH002197,0.237,best-number RPC-propensity above threshold
+AC000728,continue,PH002199,0.257,best-number RPC-propensity above threshold
+AC000729,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000730,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000731,continue,PH002205,0.153,best-number RPC-propensity above threshold
+AC000732,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000733,continue,PH002211,0.21,best-number RPC-propensity above threshold
+AC000734,continue,PH002213,0.21,best-number RPC-propensity above threshold
+AC000735,continue,PH002214,0.234,best-number RPC-propensity above threshold
+AC000736,continue,PH002217,0.375,best-number RPC-propensity above threshold
+AC000737,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000738,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000739,continue,PH002223,0.237,best-number RPC-propensity above threshold
+AC000740,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000741,continue,PH002227,0.171,best-number RPC-propensity above threshold
+AC000742,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000743,continue,PH002231,0.174,best-number RPC-propensity above threshold
+AC000744,continue,PH002233,0.375,best-number RPC-propensity above threshold
+AC000745,continue,PH002235,0.257,best-number RPC-propensity above threshold
+AC000746,continue,PH002238,0.221,best-number RPC-propensity above threshold
+AC000747,continue,PH005880,0.153,best-number RPC-propensity above threshold
+AC000748,continue,PH002241,0.171,best-number RPC-propensity above threshold
+AC000749,continue,PH002242,0.153,best-number RPC-propensity above threshold
+AC000750,continue,PH002245,0.271,best-number RPC-propensity above threshold
+AC000751,continue,PH002247,0.257,best-number RPC-propensity above threshold
+AC000752,continue,PH002249,0.257,best-number RPC-propensity above threshold
+AC000753,continue,PH002251,0.237,best-number RPC-propensity above threshold
+AC000754,continue,PH002253,0.221,best-number RPC-propensity above threshold
+AC000755,continue,PH002257,0.21,best-number RPC-propensity above threshold
+AC000756,continue,PH002259,0.21,best-number RPC-propensity above threshold
+AC000757,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000758,continue,PH002261,0.153,best-number RPC-propensity above threshold
+AC000759,continue,PH002263,0.271,best-number RPC-propensity above threshold
+AC000760,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000761,continue,PH002268,0.237,best-number RPC-propensity above threshold
+AC000762,continue,PH002270,0.387,best-number RPC-propensity above threshold
+AC000763,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000764,continue,PH002274,0.271,best-number RPC-propensity above threshold
+AC000765,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000766,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000767,continue,PH002278,0.171,best-number RPC-propensity above threshold
+AC000768,continue,PH002281,0.21,best-number RPC-propensity above threshold
+AC000769,continue,PH002283,0.237,best-number RPC-propensity above threshold
+AC000770,continue,PH002285,0.234,best-number RPC-propensity above threshold
+AC000771,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000772,continue,PH002291,0.21,best-number RPC-propensity above threshold
+AC000773,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000774,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000775,continue,PH002297,0.237,best-number RPC-propensity above threshold
+AC000776,continue,PH002300,0.257,best-number RPC-propensity above threshold
+AC000777,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000778,continue,PH002303,0.153,best-number RPC-propensity above threshold
+AC000779,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000780,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000781,continue,PH002309,0.174,best-number RPC-propensity above threshold
+AC000782,continue,PH002310,0.237,best-number RPC-propensity above threshold
+AC000783,continue,PH005916,0.234,best-number RPC-propensity above threshold
+AC000784,continue,PH002314,0.221,best-number RPC-propensity above threshold
+AC000785,continue,PH002317,0.257,best-number RPC-propensity above threshold
+AC000786,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000787,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000788,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000789,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000790,continue,PH002328,0.375,best-number RPC-propensity above threshold
+AC000791,continue,PH002330,0.21,best-number RPC-propensity above threshold
+AC000792,continue,PH002332,0.257,best-number RPC-propensity above threshold
+AC000793,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000794,continue,PH002337,0.237,best-number RPC-propensity above threshold
+AC000795,continue,PH002339,0.153,best-number RPC-propensity above threshold
+AC000796,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000797,continue,PH002342,0.257,best-number RPC-propensity above threshold
+AC000798,continue,PH002344,0.21,best-number RPC-propensity above threshold
+AC000799,continue,PH002345,0.153,best-number RPC-propensity above threshold
+AC000800,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000801,continue,PH002349,0.174,best-number RPC-propensity above threshold
+AC000802,continue,PH002351,0.174,best-number RPC-propensity above threshold
+AC000803,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000804,continue,PH002355,0.257,best-number RPC-propensity above threshold
+AC000805,continue,PH002358,0.237,best-number RPC-propensity above threshold
+AC000806,continue,PH002359,0.271,best-number RPC-propensity above threshold
+AC000807,continue,PH002361,0.257,best-number RPC-propensity above threshold
+AC000808,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000809,continue,PH002366,0.21,best-number RPC-propensity above threshold
+AC000810,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000811,continue,PH002370,0.271,best-number RPC-propensity above threshold
+AC000812,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000813,continue,PH002374,0.387,best-number RPC-propensity above threshold
+AC000814,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000815,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000816,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000817,continue,PH002381,0.221,best-number RPC-propensity above threshold
+AC000818,continue,PH002384,0.257,best-number RPC-propensity above threshold
+AC000819,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000820,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000821,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000822,continue,PH002394,0.237,best-number RPC-propensity above threshold
+AC000823,continue,PH002395,0.237,best-number RPC-propensity above threshold
+AC000824,continue,PH002397,0.375,best-number RPC-propensity above threshold
+AC000825,continue,PH002399,0.257,best-number RPC-propensity above threshold
+AC000826,continue,PH002402,0.153,best-number RPC-propensity above threshold
+AC000827,continue,PH002405,0.375,best-number RPC-propensity above threshold
+AC000828,continue,PH005847,0.375,best-number RPC-propensity above threshold
+AC000829,continue,PH002410,0.21,best-number RPC-propensity above threshold
+AC000830,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000831,continue,PH002415,0.271,best-number RPC-propensity above threshold
+AC000832,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000833,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000834,continue,PH002423,0.171,best-number RPC-propensity above threshold
+AC000835,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000836,continue,PH002427,0.257,best-number RPC-propensity above threshold
+AC000837,continue,PH002431,0.21,best-number RPC-propensity above threshold
+AC000838,continue,PH002432,0.21,best-number RPC-propensity above threshold
+AC000839,continue,PH002433,0.237,best-number RPC-propensity above threshold
+AC000840,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000841,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000842,continue,PH002438,0.375,best-number RPC-propensity above threshold
+AC000843,continue,PH002440,0.153,best-number RPC-propensity above threshold
+AC000844,continue,PH002443,0.171,best-number RPC-propensity above threshold
+AC000845,continue,PH002446,0.221,best-number RPC-propensity above threshold
+AC000846,continue,PH002449,0.387,best-number RPC-propensity above threshold
+AC000847,continue,PH002451,0.21,best-number RPC-propensity above threshold
+AC000848,continue,PH002453,0.21,best-number RPC-propensity above threshold
+AC000849,continue,PH002455,0.21,best-number RPC-propensity above threshold
+AC000850,continue,PH002456,0.237,best-number RPC-propensity above threshold
+AC000851,continue,PH002461,0.257,best-number RPC-propensity above threshold
+AC000852,continue,PH002462,0.237,best-number RPC-propensity above threshold
+AC000853,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000854,continue,PH002466,0.237,best-number RPC-propensity above threshold
+AC000855,continue,PH002468,0.171,best-number RPC-propensity above threshold
+AC000856,continue,PH002471,0.174,best-number RPC-propensity above threshold
+AC000857,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000858,continue,PH002475,0.21,best-number RPC-propensity above threshold
+AC000859,continue,PH002476,0.237,best-number RPC-propensity above threshold
+AC000860,continue,PH002478,0.153,best-number RPC-propensity above threshold
+AC000861,continue,PH002481,0.153,best-number RPC-propensity above threshold
+AC000862,continue,PH002483,0.21,best-number RPC-propensity above threshold
+AC000863,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000864,continue,PH002487,0.375,best-number RPC-propensity above threshold
+AC000865,continue,PH002489,0.221,best-number RPC-propensity above threshold
+AC000866,continue,PH002491,0.221,best-number RPC-propensity above threshold
+AC000868,continue,PH002495,0.21,best-number RPC-propensity above threshold
+AC000869,continue,PH002496,0.375,best-number RPC-propensity above threshold
+AC000870,continue,PH002498,0.21,best-number RPC-propensity above threshold
+AC000871,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000872,continue,PH002502,0.237,best-number RPC-propensity above threshold
+AC000873,continue,PH002506,0.237,best-number RPC-propensity above threshold
+AC000874,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000875,continue,PH002511,0.375,best-number RPC-propensity above threshold
+AC000876,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000877,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000878,continue,PH002516,0.237,best-number RPC-propensity above threshold
+AC000879,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000880,continue,PH002520,0.174,best-number RPC-propensity above threshold
+AC000881,continue,PH002522,0.21,best-number RPC-propensity above threshold
+AC000882,continue,PH002525,0.21,best-number RPC-propensity above threshold
+AC000883,continue,PH002526,0.221,best-number RPC-propensity above threshold
+AC000884,continue,PH002527,0.375,best-number RPC-propensity above threshold
+AC000885,continue,PH005937,0.174,best-number RPC-propensity above threshold
+AC000886,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000887,continue,PH002535,0.171,best-number RPC-propensity above threshold
+AC000888,continue,PH002537,0.375,best-number RPC-propensity above threshold
+AC000889,continue,PH002538,0.153,best-number RPC-propensity above threshold
+AC000890,continue,PH002542,0.257,best-number RPC-propensity above threshold
+AC000891,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000892,continue,PH002546,0.153,best-number RPC-propensity above threshold
+AC000893,continue,PH002548,0.153,best-number RPC-propensity above threshold
+AC000894,continue,PH002550,0.21,best-number RPC-propensity above threshold
+AC000895,continue,PH002553,0.375,best-number RPC-propensity above threshold
+AC000896,continue,PH002557,0.257,best-number RPC-propensity above threshold
+AC000897,continue,PH002559,0.257,best-number RPC-propensity above threshold
+AC000898,continue,PH002560,0.237,best-number RPC-propensity above threshold
+AC000899,continue,PH002563,0.221,best-number RPC-propensity above threshold
+AC000900,continue,PH002565,0.234,best-number RPC-propensity above threshold
+AC000901,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000902,continue,PH002572,0.237,best-number RPC-propensity above threshold
+AC000903,continue,PH002575,0.257,best-number RPC-propensity above threshold
+AC000904,continue,PH002577,0.375,best-number RPC-propensity above threshold
+AC000905,continue,PH005817,0.21,best-number RPC-propensity above threshold
+AC000906,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000907,continue,PH002584,0.221,best-number RPC-propensity above threshold
+AC000908,continue,PH002587,0.271,best-number RPC-propensity above threshold
+AC000909,continue,PH002591,0.237,best-number RPC-propensity above threshold
+AC000910,continue,PH002594,0.271,best-number RPC-propensity above threshold
+AC000911,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000912,continue,PH002598,0.171,best-number RPC-propensity above threshold
+AC000913,continue,PH002600,0.153,best-number RPC-propensity above threshold
+AC000914,continue,PH002602,0.237,best-number RPC-propensity above threshold
+AC000915,continue,PH002604,0.375,best-number RPC-propensity above threshold
+AC000916,continue,PH002606,0.237,best-number RPC-propensity above threshold
+AC000917,continue,PH002607,0.237,best-number RPC-propensity above threshold
+AC000918,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000919,continue,PH002612,0.221,best-number RPC-propensity above threshold
+AC000920,continue,PH002615,0.153,best-number RPC-propensity above threshold
+AC000921,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000922,continue,PH002622,0.257,best-number RPC-propensity above threshold
+AC000923,continue,PH002624,0.21,best-number RPC-propensity above threshold
+AC000924,continue,PH002626,0.271,best-number RPC-propensity above threshold
+AC000925,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000926,continue,PH002632,0.153,best-number RPC-propensity above threshold
+AC000927,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000928,continue,PH005868,0.153,best-number RPC-propensity above threshold
+AC000929,continue,PH002638,0.171,best-number RPC-propensity above threshold
+AC000930,continue,PH002641,0.171,best-number RPC-propensity above threshold
+AC000931,continue,PH005945,0.174,best-number RPC-propensity above threshold
+AC000932,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000933,continue,PH002648,0.21,best-number RPC-propensity above threshold
+AC000934,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000935,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000937,continue,PH002657,0.375,best-number RPC-propensity above threshold
+AC000938,continue,PH002659,0.375,best-number RPC-propensity above threshold
+AC000939,continue,PH002661,0.21,best-number RPC-propensity above threshold
+AC000940,continue,PH002662,0.257,best-number RPC-propensity above threshold
+AC000941,continue,PH002664,0.21,best-number RPC-propensity above threshold
+AC000942,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000944,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000945,continue,PH002673,0.153,best-number RPC-propensity above threshold
+AC000946,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000947,continue,PH002677,0.171,best-number RPC-propensity above threshold
+AC000948,continue,PH002680,0.387,best-number RPC-propensity above threshold
+AC000949,continue,PH002681,0.237,best-number RPC-propensity above threshold
+AC000950,continue,PH002683,0.257,best-number RPC-propensity above threshold
+AC000951,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000952,continue,PH002686,0.21,best-number RPC-propensity above threshold
+AC000953,continue,PH002687,0.237,best-number RPC-propensity above threshold
+AC000954,continue,PH002688,0.387,best-number RPC-propensity above threshold
+AC000955,continue,PH002690,0.153,best-number RPC-propensity above threshold
+AC000956,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000957,continue,PH002695,0.171,best-number RPC-propensity above threshold
+AC000958,continue,PH002698,0.153,best-number RPC-propensity above threshold
+AC000959,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000960,continue,PH002701,0.234,best-number RPC-propensity above threshold
+AC000961,continue,PH002703,0.387,best-number RPC-propensity above threshold
+AC000962,continue,PH002706,0.171,best-number RPC-propensity above threshold
+AC000963,continue,PH002707,0.21,best-number RPC-propensity above threshold
+AC000964,continue,PH002709,0.257,best-number RPC-propensity above threshold
+AC000965,continue,PH002711,0.237,best-number RPC-propensity above threshold
+AC000966,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000967,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000968,continue,PH002716,0.153,best-number RPC-propensity above threshold
+AC000969,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000970,continue,PH002721,0.375,best-number RPC-propensity above threshold
+AC000971,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000972,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000973,continue,PH002728,0.234,best-number RPC-propensity above threshold
+AC000974,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000975,continue,PH002732,0.257,best-number RPC-propensity above threshold
+AC000976,continue,PH002734,0.182,best-number RPC-propensity above threshold
+AC000977,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000978,continue,PH002738,0.237,best-number RPC-propensity above threshold
+AC000979,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000980,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000981,continue,PH005899,0.257,best-number RPC-propensity above threshold
+AC000982,continue,PH002747,0.21,best-number RPC-propensity above threshold
+AC000983,continue,PH002749,0.153,best-number RPC-propensity above threshold
+AC000984,continue,PH002755,0.174,best-number RPC-propensity above threshold
+AC000985,continue,PH002757,0.271,best-number RPC-propensity above threshold
+AC000986,continue,PH002759,0.153,best-number RPC-propensity above threshold
+AC000987,continue,PH002761,0.234,best-number RPC-propensity above threshold
+AC000988,continue,PH002764,0.153,best-number RPC-propensity above threshold
+AC000989,continue,PH002767,0.21,best-number RPC-propensity above threshold
+AC000990,continue,PH002769,0.221,best-number RPC-propensity above threshold
+AC000991,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000992,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000993,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC000994,continue,PH002777,0.271,best-number RPC-propensity above threshold
+AC000995,continue,PH002780,0.221,best-number RPC-propensity above threshold
+AC000996,continue,PH002782,0.174,best-number RPC-propensity above threshold
+AC000997,continue,PH002784,0.257,best-number RPC-propensity above threshold
+AC000998,continue,PH002785,0.21,best-number RPC-propensity above threshold
+AC000999,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001000,continue,PH002789,0.257,best-number RPC-propensity above threshold
+AC001001,continue,PH002791,0.237,best-number RPC-propensity above threshold
+AC001002,continue,PH002793,0.237,best-number RPC-propensity above threshold
+AC001003,continue,PH002796,0.237,best-number RPC-propensity above threshold
+AC001004,continue,PH005928,0.375,best-number RPC-propensity above threshold
+AC001005,continue,PH002800,0.271,best-number RPC-propensity above threshold
+AC001006,continue,PH002802,0.171,best-number RPC-propensity above threshold
+AC001007,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001008,continue,PH002808,0.237,best-number RPC-propensity above threshold
+AC001009,continue,PH002810,0.257,best-number RPC-propensity above threshold
+AC001010,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001011,continue,PH002815,0.153,best-number RPC-propensity above threshold
+AC001012,continue,PH002816,0.21,best-number RPC-propensity above threshold
+AC001013,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001014,continue,PH002819,0.174,best-number RPC-propensity above threshold
+AC001015,continue,PH002821,0.271,best-number RPC-propensity above threshold
+AC001016,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001017,continue,PH002826,0.387,best-number RPC-propensity above threshold
+AC001018,continue,PH002828,0.237,best-number RPC-propensity above threshold
+AC001019,continue,PH002830,0.387,best-number RPC-propensity above threshold
+AC001020,continue,PH002833,0.153,best-number RPC-propensity above threshold
+AC001021,continue,PH002834,0.375,best-number RPC-propensity above threshold
+AC001022,continue,PH002835,0.375,best-number RPC-propensity above threshold
+AC001023,continue,PH002838,0.153,best-number RPC-propensity above threshold
+AC001024,continue,PH002842,0.237,best-number RPC-propensity above threshold
+AC001025,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001026,continue,PH002845,0.221,best-number RPC-propensity above threshold
+AC001027,continue,PH002848,0.271,best-number RPC-propensity above threshold
+AC001028,continue,PH002852,0.237,best-number RPC-propensity above threshold
+AC001029,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001030,continue,PH005858,0.237,best-number RPC-propensity above threshold
+AC001031,continue,PH002858,0.237,best-number RPC-propensity above threshold
+AC001032,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001033,switch_channel,PH002861,0.053,valid but avoiding -> WhatsApp/field instead of redial
+AC001034,continue,PH002864,0.221,best-number RPC-propensity above threshold
+AC001035,continue,PH002868,0.174,best-number RPC-propensity above threshold
+AC001036,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001038,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001039,continue,PH002876,0.237,best-number RPC-propensity above threshold
+AC001040,continue,PH002879,0.271,best-number RPC-propensity above threshold
+AC001041,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001042,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001043,continue,PH002886,0.257,best-number RPC-propensity above threshold
+AC001044,continue,PH002889,0.221,best-number RPC-propensity above threshold
+AC001045,continue,PH002890,0.237,best-number RPC-propensity above threshold
+AC001046,continue,PH002891,0.153,best-number RPC-propensity above threshold
+AC001047,continue,PH002893,0.174,best-number RPC-propensity above threshold
+AC001048,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001049,continue,PH002899,0.174,best-number RPC-propensity above threshold
+AC001050,continue,PH002900,0.174,best-number RPC-propensity above threshold
+AC001051,continue,PH002903,0.257,best-number RPC-propensity above threshold
+AC001052,continue,PH002905,0.375,best-number RPC-propensity above threshold
+AC001053,continue,PH002906,0.182,best-number RPC-propensity above threshold
+AC001054,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001055,continue,PH005890,0.21,best-number RPC-propensity above threshold
+AC001056,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001057,continue,PH002914,0.171,best-number RPC-propensity above threshold
+AC001058,continue,PH002916,0.237,best-number RPC-propensity above threshold
+AC001059,continue,PH002918,0.375,best-number RPC-propensity above threshold
+AC001060,continue,PH002920,0.271,best-number RPC-propensity above threshold
+AC001061,continue,PH002922,0.21,best-number RPC-propensity above threshold
+AC001062,continue,PH002925,0.271,best-number RPC-propensity above threshold
+AC001063,continue,PH002928,0.21,best-number RPC-propensity above threshold
+AC001064,continue,PH002930,0.271,best-number RPC-propensity above threshold
+AC001065,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001066,continue,PH002935,0.171,best-number RPC-propensity above threshold
+AC001067,continue,PH002937,0.174,best-number RPC-propensity above threshold
+AC001068,continue,PH002941,0.171,best-number RPC-propensity above threshold
+AC001069,continue,PH002945,0.153,best-number RPC-propensity above threshold
+AC001070,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001071,continue,PH002950,0.375,best-number RPC-propensity above threshold
+AC001072,continue,PH002951,0.257,best-number RPC-propensity above threshold
+AC001073,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001074,continue,PH002955,0.21,best-number RPC-propensity above threshold
+AC001075,continue,PH002958,0.271,best-number RPC-propensity above threshold
+AC001076,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001077,continue,PH002964,0.375,best-number RPC-propensity above threshold
+AC001078,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001079,continue,PH002967,0.375,best-number RPC-propensity above threshold
+AC001080,continue,PH002969,0.21,best-number RPC-propensity above threshold
+AC001081,continue,PH002971,0.387,best-number RPC-propensity above threshold
+AC001082,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001083,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001084,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001085,continue,PH005948,0.171,best-number RPC-propensity above threshold
+AC001086,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001087,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001088,continue,PH002985,0.21,best-number RPC-propensity above threshold
+AC001089,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001090,continue,PH002989,0.221,best-number RPC-propensity above threshold
+AC001091,continue,PH002991,0.153,best-number RPC-propensity above threshold
+AC001092,continue,PH002993,0.153,best-number RPC-propensity above threshold
+AC001093,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001094,continue,PH002997,0.171,best-number RPC-propensity above threshold
+AC001095,continue,PH002999,0.153,best-number RPC-propensity above threshold
+AC001096,continue,PH003001,0.257,best-number RPC-propensity above threshold
+AC001097,continue,PH003004,0.171,best-number RPC-propensity above threshold
+AC001098,continue,PH003005,0.182,best-number RPC-propensity above threshold
+AC001099,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001100,continue,PH003011,0.153,best-number RPC-propensity above threshold
+AC001101,continue,PH003013,0.21,best-number RPC-propensity above threshold
+AC001102,continue,PH005882,0.174,best-number RPC-propensity above threshold
+AC001103,continue,PH003016,0.387,best-number RPC-propensity above threshold
+AC001104,continue,PH003018,0.271,best-number RPC-propensity above threshold
+AC001105,continue,PH003020,0.271,best-number RPC-propensity above threshold
+AC001106,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001107,continue,PH003024,0.221,best-number RPC-propensity above threshold
+AC001108,continue,PH003025,0.257,best-number RPC-propensity above threshold
+AC001109,continue,PH003027,0.21,best-number RPC-propensity above threshold
+AC001110,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001111,continue,PH003029,0.375,best-number RPC-propensity above threshold
+AC001112,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001113,continue,PH003035,0.153,best-number RPC-propensity above threshold
+AC001114,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001115,continue,PH003039,0.257,best-number RPC-propensity above threshold
+AC001116,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001117,continue,PH003044,0.375,best-number RPC-propensity above threshold
+AC001118,continue,PH003046,0.21,best-number RPC-propensity above threshold
+AC001119,continue,PH003049,0.271,best-number RPC-propensity above threshold
+AC001120,continue,PH003050,0.237,best-number RPC-propensity above threshold
+AC001121,continue,PH003053,0.21,best-number RPC-propensity above threshold
+AC001122,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001123,continue,PH003056,0.237,best-number RPC-propensity above threshold
+AC001124,continue,PH003059,0.375,best-number RPC-propensity above threshold
+AC001125,continue,PH003061,0.221,best-number RPC-propensity above threshold
+AC001126,continue,PH003064,0.171,best-number RPC-propensity above threshold
+AC001127,continue,PH003066,0.271,best-number RPC-propensity above threshold
+AC001128,continue,PH003068,0.21,best-number RPC-propensity above threshold
+AC001129,continue,PH003070,0.221,best-number RPC-propensity above threshold
+AC001130,continue,PH003072,0.271,best-number RPC-propensity above threshold
+AC001131,continue,PH003073,0.237,best-number RPC-propensity above threshold
+AC001132,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001133,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001134,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001135,continue,PH003080,0.387,best-number RPC-propensity above threshold
+AC001136,continue,PH003082,0.153,best-number RPC-propensity above threshold
+AC001137,continue,PH003084,0.153,best-number RPC-propensity above threshold
+AC001138,continue,PH003086,0.237,best-number RPC-propensity above threshold
+AC001139,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001140,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001141,continue,PH003093,0.153,best-number RPC-propensity above threshold
+AC001142,continue,PH003096,0.21,best-number RPC-propensity above threshold
+AC001143,continue,PH003099,0.174,best-number RPC-propensity above threshold
+AC001144,continue,PH003102,0.257,best-number RPC-propensity above threshold
+AC001145,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001146,continue,PH003108,0.234,best-number RPC-propensity above threshold
+AC001147,continue,PH005918,0.257,best-number RPC-propensity above threshold
+AC001148,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001149,continue,PH005938,0.153,best-number RPC-propensity above threshold
+AC001150,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001151,continue,PH003118,0.234,best-number RPC-propensity above threshold
+AC001152,continue,PH003120,0.237,best-number RPC-propensity above threshold
+AC001153,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001154,continue,PH003124,0.375,best-number RPC-propensity above threshold
+AC001155,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001156,continue,PH003128,0.171,best-number RPC-propensity above threshold
+AC001157,continue,PH003129,0.237,best-number RPC-propensity above threshold
+AC001158,continue,PH003130,0.375,best-number RPC-propensity above threshold
+AC001159,continue,PH003133,0.237,best-number RPC-propensity above threshold
+AC001160,continue,PH003137,0.237,best-number RPC-propensity above threshold
+AC001161,continue,PH005900,0.153,best-number RPC-propensity above threshold
+AC001162,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001163,continue,PH003145,0.257,best-number RPC-propensity above threshold
+AC001164,continue,PH003146,0.271,best-number RPC-propensity above threshold
+AC001166,continue,PH003150,0.171,best-number RPC-propensity above threshold
+AC001167,continue,PH003152,0.171,best-number RPC-propensity above threshold
+AC001168,continue,PH003153,0.221,best-number RPC-propensity above threshold
+AC001169,continue,PH003155,0.237,best-number RPC-propensity above threshold
+AC001170,continue,PH003158,0.21,best-number RPC-propensity above threshold
+AC001172,continue,PH003162,0.221,best-number RPC-propensity above threshold
+AC001173,continue,PH003163,0.153,best-number RPC-propensity above threshold
+AC001174,continue,PH003166,0.271,best-number RPC-propensity above threshold
+AC001175,continue,PH003168,0.375,best-number RPC-propensity above threshold
+AC001176,continue,PH003170,0.375,best-number RPC-propensity above threshold
+AC001177,continue,PH003173,0.153,best-number RPC-propensity above threshold
+AC001178,continue,PH003177,0.234,best-number RPC-propensity above threshold
+AC001179,continue,PH003179,0.182,best-number RPC-propensity above threshold
+AC001180,continue,PH003182,0.221,best-number RPC-propensity above threshold
+AC001181,continue,PH003185,0.271,best-number RPC-propensity above threshold
+AC001182,continue,PH003187,0.221,best-number RPC-propensity above threshold
+AC001183,continue,PH003188,0.21,best-number RPC-propensity above threshold
+AC001184,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001185,continue,PH003190,0.171,best-number RPC-propensity above threshold
+AC001186,continue,PH003193,0.237,best-number RPC-propensity above threshold
+AC001187,continue,PH003195,0.237,best-number RPC-propensity above threshold
+AC001188,continue,PH003199,0.375,best-number RPC-propensity above threshold
+AC001189,continue,PH003200,0.21,best-number RPC-propensity above threshold
+AC001190,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001191,continue,PH003204,0.257,best-number RPC-propensity above threshold
+AC001192,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001193,continue,PH003209,0.234,best-number RPC-propensity above threshold
+AC001194,continue,PH003210,0.221,best-number RPC-propensity above threshold
+AC001195,continue,PH003212,0.237,best-number RPC-propensity above threshold
+AC001196,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001197,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001198,continue,PH003222,0.237,best-number RPC-propensity above threshold
+AC001199,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001200,continue,PH003224,0.171,best-number RPC-propensity above threshold
+AC001201,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001202,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001203,continue,PH005859,0.153,best-number RPC-propensity above threshold
+AC001204,continue,PH003231,0.21,best-number RPC-propensity above threshold
+AC001205,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001206,continue,PH003235,0.171,best-number RPC-propensity above threshold
+AC001207,continue,PH003238,0.375,best-number RPC-propensity above threshold
+AC001208,continue,PH003240,0.257,best-number RPC-propensity above threshold
+AC001209,continue,PH003242,0.237,best-number RPC-propensity above threshold
+AC001210,continue,PH003245,0.153,best-number RPC-propensity above threshold
+AC001211,continue,PH005936,0.271,best-number RPC-propensity above threshold
+AC001212,continue,PH003248,0.221,best-number RPC-propensity above threshold
+AC001213,continue,PH003249,0.153,best-number RPC-propensity above threshold
+AC001214,continue,PH003250,0.221,best-number RPC-propensity above threshold
+AC001215,continue,PH003253,0.234,best-number RPC-propensity above threshold
+AC001216,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001217,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001218,continue,PH003260,0.375,best-number RPC-propensity above threshold
+AC001219,continue,PH003262,0.237,best-number RPC-propensity above threshold
+AC001220,continue,PH003265,0.257,best-number RPC-propensity above threshold
+AC001221,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001222,continue,PH003268,0.221,best-number RPC-propensity above threshold
+AC001223,continue,PH003272,0.237,best-number RPC-propensity above threshold
+AC001224,continue,PH003273,0.221,best-number RPC-propensity above threshold
+AC001225,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001226,continue,PH005851,0.153,best-number RPC-propensity above threshold
+AC001227,continue,PH003280,0.257,best-number RPC-propensity above threshold
+AC001228,continue,PH003283,0.257,best-number RPC-propensity above threshold
+AC001229,continue,PH003285,0.257,best-number RPC-propensity above threshold
+AC001230,continue,PH003287,0.387,best-number RPC-propensity above threshold
+AC001231,continue,PH003289,0.153,best-number RPC-propensity above threshold
+AC001232,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001233,continue,PH003292,0.21,best-number RPC-propensity above threshold
+AC001234,continue,PH003294,0.234,best-number RPC-propensity above threshold
+AC001235,continue,PH003296,0.387,best-number RPC-propensity above threshold
+AC001236,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001237,continue,PH003300,0.153,best-number RPC-propensity above threshold
+AC001238,continue,PH003303,0.387,best-number RPC-propensity above threshold
+AC001239,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001240,continue,PH003307,0.153,best-number RPC-propensity above threshold
+AC001241,continue,PH003310,0.237,best-number RPC-propensity above threshold
+AC001242,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001243,continue,PH003314,0.257,best-number RPC-propensity above threshold
+AC001244,continue,PH003316,0.153,best-number RPC-propensity above threshold
+AC001245,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001246,continue,PH003320,0.271,best-number RPC-propensity above threshold
+AC001247,continue,PH003322,0.257,best-number RPC-propensity above threshold
+AC001248,continue,PH003324,0.375,best-number RPC-propensity above threshold
+AC001249,continue,PH003328,0.171,best-number RPC-propensity above threshold
+AC001250,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001251,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001252,continue,PH003333,0.237,best-number RPC-propensity above threshold
+AC001253,continue,PH003336,0.271,best-number RPC-propensity above threshold
+AC001254,continue,PH003339,0.375,best-number RPC-propensity above threshold
+AC001255,continue,PH003342,0.237,best-number RPC-propensity above threshold
+AC001256,continue,PH003346,0.237,best-number RPC-propensity above threshold
+AC001257,continue,PH003347,0.221,best-number RPC-propensity above threshold
+AC001258,continue,PH003350,0.237,best-number RPC-propensity above threshold
+AC001259,continue,PH003352,0.153,best-number RPC-propensity above threshold
+AC001260,continue,PH003355,0.153,best-number RPC-propensity above threshold
+AC001261,continue,PH003359,0.174,best-number RPC-propensity above threshold
+AC001262,continue,PH003362,0.375,best-number RPC-propensity above threshold
+AC001263,continue,PH003367,0.21,best-number RPC-propensity above threshold
+AC001264,continue,PH003370,0.234,best-number RPC-propensity above threshold
+AC001265,continue,PH003372,0.237,best-number RPC-propensity above threshold
+AC001266,continue,PH003374,0.21,best-number RPC-propensity above threshold
+AC001267,continue,PH003376,0.221,best-number RPC-propensity above threshold
+AC001268,continue,PH003379,0.257,best-number RPC-propensity above threshold
+AC001269,continue,PH003382,0.375,best-number RPC-propensity above threshold
+AC001270,continue,PH003386,0.237,best-number RPC-propensity above threshold
+AC001271,continue,PH003390,0.271,best-number RPC-propensity above threshold
+AC001272,continue,PH003391,0.171,best-number RPC-propensity above threshold
+AC001273,continue,PH003392,0.21,best-number RPC-propensity above threshold
+AC001274,continue,PH005941,0.21,best-number RPC-propensity above threshold
+AC001275,continue,PH003396,0.237,best-number RPC-propensity above threshold
+AC001276,continue,PH003399,0.171,best-number RPC-propensity above threshold
+AC001277,continue,PH003400,0.153,best-number RPC-propensity above threshold
+AC001278,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001279,continue,PH003404,0.375,best-number RPC-propensity above threshold
+AC001280,continue,PH003407,0.257,best-number RPC-propensity above threshold
+AC001281,continue,PH003410,0.221,best-number RPC-propensity above threshold
+AC001282,continue,PH003413,0.237,best-number RPC-propensity above threshold
+AC001283,continue,PH003414,0.153,best-number RPC-propensity above threshold
+AC001284,continue,PH003416,0.237,best-number RPC-propensity above threshold
+AC001285,continue,PH003417,0.21,best-number RPC-propensity above threshold
+AC001286,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001287,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001288,continue,PH003425,0.174,best-number RPC-propensity above threshold
+AC001290,continue,PH003427,0.387,best-number RPC-propensity above threshold
+AC001291,continue,PH003430,0.237,best-number RPC-propensity above threshold
+AC001292,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001293,continue,PH003435,0.387,best-number RPC-propensity above threshold
+AC001294,continue,PH003436,0.271,best-number RPC-propensity above threshold
+AC001295,continue,PH003439,0.257,best-number RPC-propensity above threshold
+AC001296,continue,PH003442,0.174,best-number RPC-propensity above threshold
+AC001297,continue,PH003444,0.271,best-number RPC-propensity above threshold
+AC001298,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001299,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001300,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001301,continue,PH003454,0.153,best-number RPC-propensity above threshold
+AC001302,continue,PH003456,0.257,best-number RPC-propensity above threshold
+AC001303,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001304,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001305,continue,PH003461,0.171,best-number RPC-propensity above threshold
+AC001306,continue,PH003463,0.153,best-number RPC-propensity above threshold
+AC001307,continue,PH003465,0.153,best-number RPC-propensity above threshold
+AC001308,continue,PH003467,0.237,best-number RPC-propensity above threshold
+AC001309,continue,PH003469,0.171,best-number RPC-propensity above threshold
+AC001310,continue,PH003471,0.21,best-number RPC-propensity above threshold
+AC001311,continue,PH003473,0.153,best-number RPC-propensity above threshold
+AC001312,continue,PH003476,0.153,best-number RPC-propensity above threshold
+AC001313,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001314,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001315,continue,PH003481,0.271,best-number RPC-propensity above threshold
+AC001316,continue,PH003483,0.375,best-number RPC-propensity above threshold
+AC001317,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001318,continue,PH003485,0.237,best-number RPC-propensity above threshold
+AC001319,continue,PH003486,0.153,best-number RPC-propensity above threshold
+AC001320,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001321,continue,PH003490,0.182,best-number RPC-propensity above threshold
+AC001322,continue,PH003491,0.171,best-number RPC-propensity above threshold
+AC001323,continue,PH003493,0.174,best-number RPC-propensity above threshold
+AC001324,continue,PH003496,0.21,best-number RPC-propensity above threshold
+AC001325,continue,PH003497,0.257,best-number RPC-propensity above threshold
+AC001326,continue,PH003498,0.257,best-number RPC-propensity above threshold
+AC001327,continue,PH003500,0.21,best-number RPC-propensity above threshold
+AC001328,continue,PH003503,0.257,best-number RPC-propensity above threshold
+AC001329,continue,PH003504,0.153,best-number RPC-propensity above threshold
+AC001330,continue,PH003508,0.237,best-number RPC-propensity above threshold
+AC001331,continue,PH003511,0.153,best-number RPC-propensity above threshold
+AC001332,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001333,continue,PH003514,0.221,best-number RPC-propensity above threshold
+AC001334,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001335,continue,PH003520,0.257,best-number RPC-propensity above threshold
+AC001336,continue,PH003522,0.153,best-number RPC-propensity above threshold
+AC001337,continue,PH003523,0.375,best-number RPC-propensity above threshold
+AC001338,continue,PH003525,0.171,best-number RPC-propensity above threshold
+AC001339,continue,PH003527,0.257,best-number RPC-propensity above threshold
+AC001340,continue,PH005912,0.221,best-number RPC-propensity above threshold
+AC001341,continue,PH003534,0.375,best-number RPC-propensity above threshold
+AC001342,continue,PH003536,0.153,best-number RPC-propensity above threshold
+AC001343,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001344,continue,PH003539,0.153,best-number RPC-propensity above threshold
+AC001345,continue,PH003541,0.221,best-number RPC-propensity above threshold
+AC001346,continue,PH003542,0.271,best-number RPC-propensity above threshold
+AC001347,continue,PH003546,0.257,best-number RPC-propensity above threshold
+AC001348,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001349,continue,PH005924,0.375,best-number RPC-propensity above threshold
+AC001350,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001351,continue,PH003557,0.237,best-number RPC-propensity above threshold
+AC001352,continue,PH003561,0.182,best-number RPC-propensity above threshold
+AC001353,continue,PH005903,0.221,best-number RPC-propensity above threshold
+AC001354,continue,PH003565,0.237,best-number RPC-propensity above threshold
+AC001355,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001356,continue,PH003569,0.221,best-number RPC-propensity above threshold
+AC001357,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001358,continue,PH003572,0.375,best-number RPC-propensity above threshold
+AC001359,continue,PH003573,0.21,best-number RPC-propensity above threshold
+AC001360,continue,PH003574,0.257,best-number RPC-propensity above threshold
+AC001361,continue,PH003576,0.171,best-number RPC-propensity above threshold
+AC001362,continue,PH003578,0.375,best-number RPC-propensity above threshold
+AC001363,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001364,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001365,continue,PH003585,0.257,best-number RPC-propensity above threshold
+AC001366,continue,PH003586,0.257,best-number RPC-propensity above threshold
+AC001367,continue,PH003589,0.237,best-number RPC-propensity above threshold
+AC001368,continue,PH003593,0.221,best-number RPC-propensity above threshold
+AC001369,continue,PH003595,0.153,best-number RPC-propensity above threshold
+AC001371,continue,PH003598,0.237,best-number RPC-propensity above threshold
+AC001372,continue,PH003601,0.153,best-number RPC-propensity above threshold
+AC001373,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001374,continue,PH003605,0.174,best-number RPC-propensity above threshold
+AC001375,continue,PH003607,0.171,best-number RPC-propensity above threshold
+AC001376,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001377,continue,PH003612,0.271,best-number RPC-propensity above threshold
+AC001378,continue,PH003615,0.375,best-number RPC-propensity above threshold
+AC001379,continue,PH003617,0.237,best-number RPC-propensity above threshold
+AC001380,continue,PH003620,0.257,best-number RPC-propensity above threshold
+AC001381,continue,PH003622,0.257,best-number RPC-propensity above threshold
+AC001382,continue,PH003625,0.237,best-number RPC-propensity above threshold
+AC001383,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001384,continue,PH003630,0.21,best-number RPC-propensity above threshold
+AC001385,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001386,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001387,continue,PH003638,0.153,best-number RPC-propensity above threshold
+AC001388,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001389,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001390,continue,PH003644,0.237,best-number RPC-propensity above threshold
+AC001391,continue,PH003645,0.153,best-number RPC-propensity above threshold
+AC001392,continue,PH003648,0.271,best-number RPC-propensity above threshold
+AC001393,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001394,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001395,continue,PH003654,0.237,best-number RPC-propensity above threshold
+AC001396,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001397,continue,PH003660,0.375,best-number RPC-propensity above threshold
+AC001398,continue,PH003662,0.257,best-number RPC-propensity above threshold
+AC001399,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001400,continue,PH003666,0.21,best-number RPC-propensity above threshold
+AC001401,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001402,continue,PH003672,0.257,best-number RPC-propensity above threshold
+AC001403,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001404,continue,PH003676,0.21,best-number RPC-propensity above threshold
+AC001405,continue,PH003678,0.153,best-number RPC-propensity above threshold
+AC001406,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001408,continue,PH003685,0.21,best-number RPC-propensity above threshold
+AC001409,continue,PH003686,0.257,best-number RPC-propensity above threshold
+AC001410,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001411,continue,PH003689,0.375,best-number RPC-propensity above threshold
+AC001412,continue,PH003691,0.237,best-number RPC-propensity above threshold
+AC001413,continue,PH003692,0.234,best-number RPC-propensity above threshold
+AC001414,continue,PH003695,0.237,best-number RPC-propensity above threshold
+AC001415,continue,PH003698,0.153,best-number RPC-propensity above threshold
+AC001416,continue,PH003701,0.21,best-number RPC-propensity above threshold
+AC001417,continue,PH003703,0.221,best-number RPC-propensity above threshold
+AC001418,continue,PH003704,0.257,best-number RPC-propensity above threshold
+AC001419,continue,PH003706,0.257,best-number RPC-propensity above threshold
+AC001420,continue,PH003708,0.221,best-number RPC-propensity above threshold
+AC001421,continue,PH003710,0.171,best-number RPC-propensity above threshold
+AC001422,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001423,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001424,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001425,continue,PH003720,0.21,best-number RPC-propensity above threshold
+AC001426,continue,PH003722,0.174,best-number RPC-propensity above threshold
+AC001427,continue,PH003724,0.375,best-number RPC-propensity above threshold
+AC001428,continue,PH003726,0.153,best-number RPC-propensity above threshold
+AC001429,continue,PH003729,0.153,best-number RPC-propensity above threshold
+AC001430,continue,PH005956,0.153,best-number RPC-propensity above threshold
+AC001431,continue,PH003733,0.171,best-number RPC-propensity above threshold
+AC001432,continue,PH003735,0.153,best-number RPC-propensity above threshold
+AC001433,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001434,continue,PH003739,0.271,best-number RPC-propensity above threshold
+AC001435,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001436,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001437,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001438,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001439,continue,PH005828,0.153,best-number RPC-propensity above threshold
+AC001440,continue,PH003749,0.221,best-number RPC-propensity above threshold
+AC001441,continue,PH003752,0.271,best-number RPC-propensity above threshold
+AC001442,continue,PH003753,0.21,best-number RPC-propensity above threshold
+AC001443,continue,PH003754,0.271,best-number RPC-propensity above threshold
+AC001444,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001445,continue,PH003759,0.174,best-number RPC-propensity above threshold
+AC001446,continue,PH003762,0.271,best-number RPC-propensity above threshold
+AC001447,continue,PH003764,0.257,best-number RPC-propensity above threshold
+AC001448,continue,PH003765,0.21,best-number RPC-propensity above threshold
+AC001449,continue,PH003768,0.153,best-number RPC-propensity above threshold
+AC001450,continue,PH003770,0.375,best-number RPC-propensity above threshold
+AC001451,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001452,continue,PH003775,0.153,best-number RPC-propensity above threshold
+AC001453,continue,PH003777,0.21,best-number RPC-propensity above threshold
+AC001454,continue,PH003778,0.237,best-number RPC-propensity above threshold
+AC001455,continue,PH003781,0.237,best-number RPC-propensity above threshold
+AC001456,continue,PH003784,0.221,best-number RPC-propensity above threshold
+AC001457,continue,PH003788,0.375,best-number RPC-propensity above threshold
+AC001458,continue,PH003790,0.237,best-number RPC-propensity above threshold
+AC001459,continue,PH003793,0.257,best-number RPC-propensity above threshold
+AC001460,continue,PH003797,0.171,best-number RPC-propensity above threshold
+AC001461,continue,PH003801,0.153,best-number RPC-propensity above threshold
+AC001462,continue,PH003802,0.221,best-number RPC-propensity above threshold
+AC001463,continue,PH003803,0.375,best-number RPC-propensity above threshold
+AC001464,continue,PH005864,0.153,best-number RPC-propensity above threshold
+AC001465,continue,PH003808,0.237,best-number RPC-propensity above threshold
+AC001466,continue,PH003810,0.221,best-number RPC-propensity above threshold
+AC001467,continue,PH003812,0.21,best-number RPC-propensity above threshold
+AC001468,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001469,continue,PH003815,0.153,best-number RPC-propensity above threshold
+AC001470,continue,PH003819,0.21,best-number RPC-propensity above threshold
+AC001471,continue,PH003821,0.237,best-number RPC-propensity above threshold
+AC001472,continue,PH003823,0.237,best-number RPC-propensity above threshold
+AC001473,continue,PH005942,0.257,best-number RPC-propensity above threshold
+AC001474,continue,PH003828,0.153,best-number RPC-propensity above threshold
+AC001475,continue,PH003830,0.174,best-number RPC-propensity above threshold
+AC001476,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001477,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001478,continue,PH003835,0.271,best-number RPC-propensity above threshold
+AC001479,continue,PH003836,0.21,best-number RPC-propensity above threshold
+AC001480,continue,PH003840,0.375,best-number RPC-propensity above threshold
+AC001481,continue,PH003841,0.171,best-number RPC-propensity above threshold
+AC001482,continue,PH003843,0.153,best-number RPC-propensity above threshold
+AC001483,continue,PH003847,0.171,best-number RPC-propensity above threshold
+AC001484,continue,PH003849,0.375,best-number RPC-propensity above threshold
+AC001485,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001486,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001487,continue,PH003858,0.375,best-number RPC-propensity above threshold
+AC001488,continue,PH005836,0.221,best-number RPC-propensity above threshold
+AC001489,continue,PH003862,0.387,best-number RPC-propensity above threshold
+AC001490,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001491,continue,PH003866,0.174,best-number RPC-propensity above threshold
+AC001492,continue,PH003867,0.257,best-number RPC-propensity above threshold
+AC001493,continue,PH003869,0.271,best-number RPC-propensity above threshold
+AC001494,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001495,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001496,continue,PH003874,0.237,best-number RPC-propensity above threshold
+AC001497,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001498,continue,PH003882,0.271,best-number RPC-propensity above threshold
+AC001499,continue,PH003884,0.21,best-number RPC-propensity above threshold
+AC001500,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001501,continue,PH003888,0.153,best-number RPC-propensity above threshold
+AC001502,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001503,continue,PH003891,0.257,best-number RPC-propensity above threshold
+AC001504,continue,PH003893,0.237,best-number RPC-propensity above threshold
+AC001505,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001506,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001507,continue,PH003903,0.257,best-number RPC-propensity above threshold
+AC001508,continue,PH003905,0.375,best-number RPC-propensity above threshold
+AC001509,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001510,continue,PH003911,0.237,best-number RPC-propensity above threshold
+AC001511,continue,PH003914,0.237,best-number RPC-propensity above threshold
+AC001512,continue,PH003915,0.221,best-number RPC-propensity above threshold
+AC001513,continue,PH003918,0.375,best-number RPC-propensity above threshold
+AC001514,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001515,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001516,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001517,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001518,continue,PH003925,0.182,best-number RPC-propensity above threshold
+AC001519,continue,PH003929,0.237,best-number RPC-propensity above threshold
+AC001520,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001521,continue,PH003931,0.171,best-number RPC-propensity above threshold
+AC001522,continue,PH003934,0.237,best-number RPC-propensity above threshold
+AC001523,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001524,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001525,continue,PH003941,0.171,best-number RPC-propensity above threshold
+AC001526,continue,PH003942,0.257,best-number RPC-propensity above threshold
+AC001527,continue,PH003946,0.237,best-number RPC-propensity above threshold
+AC001528,continue,PH003948,0.271,best-number RPC-propensity above threshold
+AC001529,continue,PH003950,0.21,best-number RPC-propensity above threshold
+AC001530,continue,PH003953,0.234,best-number RPC-propensity above threshold
+AC001531,continue,PH003956,0.375,best-number RPC-propensity above threshold
+AC001532,continue,PH003958,0.182,best-number RPC-propensity above threshold
+AC001533,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001534,continue,PH003959,0.237,best-number RPC-propensity above threshold
+AC001535,continue,PH003962,0.21,best-number RPC-propensity above threshold
+AC001536,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001537,continue,PH003967,0.237,best-number RPC-propensity above threshold
+AC001538,continue,PH003969,0.237,best-number RPC-propensity above threshold
+AC001539,continue,PH003970,0.153,best-number RPC-propensity above threshold
+AC001540,continue,PH003973,0.257,best-number RPC-propensity above threshold
+AC001541,continue,PH005829,0.221,best-number RPC-propensity above threshold
+AC001542,continue,PH003976,0.375,best-number RPC-propensity above threshold
+AC001543,continue,PH003977,0.237,best-number RPC-propensity above threshold
+AC001544,continue,PH003980,0.21,best-number RPC-propensity above threshold
+AC001545,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001546,continue,PH005865,0.21,best-number RPC-propensity above threshold
+AC001547,continue,PH003984,0.171,best-number RPC-propensity above threshold
+AC001548,continue,PH003988,0.387,best-number RPC-propensity above threshold
+AC001549,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001550,continue,PH003993,0.221,best-number RPC-propensity above threshold
+AC001551,continue,PH003995,0.21,best-number RPC-propensity above threshold
+AC001552,continue,PH003998,0.375,best-number RPC-propensity above threshold
+AC001553,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001554,continue,PH004002,0.221,best-number RPC-propensity above threshold
+AC001555,continue,PH005839,0.271,best-number RPC-propensity above threshold
+AC001556,continue,PH004006,0.153,best-number RPC-propensity above threshold
+AC001557,continue,PH004009,0.257,best-number RPC-propensity above threshold
+AC001558,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001559,continue,PH004011,0.21,best-number RPC-propensity above threshold
+AC001560,continue,PH004015,0.171,best-number RPC-propensity above threshold
+AC001561,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001562,continue,PH005833,0.375,best-number RPC-propensity above threshold
+AC001563,continue,PH004021,0.153,best-number RPC-propensity above threshold
+AC001564,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001565,continue,PH004027,0.171,best-number RPC-propensity above threshold
+AC001566,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001567,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001568,continue,PH004033,0.237,best-number RPC-propensity above threshold
+AC001569,continue,PH004035,0.153,best-number RPC-propensity above threshold
+AC001570,continue,PH005881,0.21,best-number RPC-propensity above threshold
+AC001571,continue,PH004039,0.237,best-number RPC-propensity above threshold
+AC001572,continue,PH004041,0.271,best-number RPC-propensity above threshold
+AC001573,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001574,continue,PH004046,0.171,best-number RPC-propensity above threshold
+AC001575,continue,PH004049,0.153,best-number RPC-propensity above threshold
+AC001576,continue,PH004052,0.174,best-number RPC-propensity above threshold
+AC001577,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001578,continue,PH004056,0.221,best-number RPC-propensity above threshold
+AC001579,continue,PH004057,0.221,best-number RPC-propensity above threshold
+AC001580,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001581,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001582,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001583,continue,PH004066,0.237,best-number RPC-propensity above threshold
+AC001584,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001585,continue,PH004070,0.153,best-number RPC-propensity above threshold
+AC001586,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001587,continue,PH004074,0.153,best-number RPC-propensity above threshold
+AC001588,continue,PH004075,0.21,best-number RPC-propensity above threshold
+AC001589,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001590,continue,PH004078,0.237,best-number RPC-propensity above threshold
+AC001591,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001592,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001593,continue,PH004085,0.375,best-number RPC-propensity above threshold
+AC001594,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001595,continue,PH004090,0.171,best-number RPC-propensity above threshold
+AC001596,continue,PH004092,0.237,best-number RPC-propensity above threshold
+AC001597,continue,PH004094,0.153,best-number RPC-propensity above threshold
+AC001598,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001599,continue,PH004099,0.153,best-number RPC-propensity above threshold
+AC001600,continue,PH004102,0.221,best-number RPC-propensity above threshold
+AC001601,continue,PH004105,0.21,best-number RPC-propensity above threshold
+AC001602,continue,PH004106,0.221,best-number RPC-propensity above threshold
+AC001603,continue,PH004108,0.271,best-number RPC-propensity above threshold
+AC001604,continue,PH004109,0.221,best-number RPC-propensity above threshold
+AC001605,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001606,continue,PH004115,0.221,best-number RPC-propensity above threshold
+AC001607,continue,PH004117,0.171,best-number RPC-propensity above threshold
+AC001608,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001609,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001610,continue,PH004122,0.271,best-number RPC-propensity above threshold
+AC001611,continue,PH004124,0.257,best-number RPC-propensity above threshold
+AC001612,continue,PH004127,0.153,best-number RPC-propensity above threshold
+AC001613,continue,PH004128,0.271,best-number RPC-propensity above threshold
+AC001614,continue,PH004131,0.237,best-number RPC-propensity above threshold
+AC001615,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001616,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001617,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001618,continue,PH004139,0.237,best-number RPC-propensity above threshold
+AC001619,continue,PH004140,0.221,best-number RPC-propensity above threshold
+AC001620,continue,PH004142,0.237,best-number RPC-propensity above threshold
+AC001621,continue,PH004143,0.271,best-number RPC-propensity above threshold
+AC001622,continue,PH004144,0.375,best-number RPC-propensity above threshold
+AC001623,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001624,continue,PH005863,0.21,best-number RPC-propensity above threshold
+AC001625,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001626,continue,PH004152,0.271,best-number RPC-propensity above threshold
+AC001627,continue,PH004155,0.21,best-number RPC-propensity above threshold
+AC001628,continue,PH004158,0.375,best-number RPC-propensity above threshold
+AC001629,continue,PH004160,0.21,best-number RPC-propensity above threshold
+AC001630,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001631,continue,PH004164,0.21,best-number RPC-propensity above threshold
+AC001632,continue,PH004167,0.257,best-number RPC-propensity above threshold
+AC001633,continue,PH004169,0.221,best-number RPC-propensity above threshold
+AC001634,continue,PH004171,0.375,best-number RPC-propensity above threshold
+AC001635,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001636,continue,PH004174,0.375,best-number RPC-propensity above threshold
+AC001637,continue,PH004178,0.221,best-number RPC-propensity above threshold
+AC001638,continue,PH004181,0.271,best-number RPC-propensity above threshold
+AC001639,continue,PH004184,0.375,best-number RPC-propensity above threshold
+AC001640,continue,PH004185,0.171,best-number RPC-propensity above threshold
+AC001641,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001642,continue,PH004188,0.387,best-number RPC-propensity above threshold
+AC001643,continue,PH004191,0.221,best-number RPC-propensity above threshold
+AC001644,continue,PH004194,0.375,best-number RPC-propensity above threshold
+AC001645,continue,PH004196,0.257,best-number RPC-propensity above threshold
+AC001646,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001647,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001648,continue,PH004203,0.237,best-number RPC-propensity above threshold
+AC001649,continue,PH004206,0.153,best-number RPC-propensity above threshold
+AC001650,continue,PH004208,0.21,best-number RPC-propensity above threshold
+AC001651,continue,PH004212,0.221,best-number RPC-propensity above threshold
+AC001652,continue,PH004214,0.171,best-number RPC-propensity above threshold
+AC001653,continue,PH004217,0.153,best-number RPC-propensity above threshold
+AC001654,continue,PH005905,0.221,best-number RPC-propensity above threshold
+AC001655,continue,PH005939,0.387,best-number RPC-propensity above threshold
+AC001656,continue,PH004222,0.153,best-number RPC-propensity above threshold
+AC001657,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001658,continue,PH004225,0.153,best-number RPC-propensity above threshold
+AC001659,continue,PH004227,0.153,best-number RPC-propensity above threshold
+AC001660,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001661,continue,PH005834,0.153,best-number RPC-propensity above threshold
+AC001662,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001663,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001664,continue,PH004239,0.271,best-number RPC-propensity above threshold
+AC001665,continue,PH004241,0.375,best-number RPC-propensity above threshold
+AC001666,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001667,continue,PH004247,0.271,best-number RPC-propensity above threshold
+AC001668,continue,PH004249,0.21,best-number RPC-propensity above threshold
+AC001669,continue,PH004252,0.221,best-number RPC-propensity above threshold
+AC001670,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001671,continue,PH004254,0.375,best-number RPC-propensity above threshold
+AC001672,continue,PH004256,0.237,best-number RPC-propensity above threshold
+AC001673,continue,PH004258,0.21,best-number RPC-propensity above threshold
+AC001674,continue,PH004261,0.174,best-number RPC-propensity above threshold
+AC001675,continue,PH004264,0.387,best-number RPC-propensity above threshold
+AC001676,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001677,continue,PH004268,0.221,best-number RPC-propensity above threshold
+AC001678,continue,PH004269,0.21,best-number RPC-propensity above threshold
+AC001679,continue,PH004271,0.174,best-number RPC-propensity above threshold
+AC001680,continue,PH004272,0.221,best-number RPC-propensity above threshold
+AC001681,continue,PH004276,0.21,best-number RPC-propensity above threshold
+AC001682,continue,PH004278,0.237,best-number RPC-propensity above threshold
+AC001683,continue,PH004282,0.221,best-number RPC-propensity above threshold
+AC001684,continue,PH004284,0.237,best-number RPC-propensity above threshold
+AC001685,continue,PH004287,0.271,best-number RPC-propensity above threshold
+AC001686,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001687,continue,PH004293,0.237,best-number RPC-propensity above threshold
+AC001688,continue,PH004297,0.221,best-number RPC-propensity above threshold
+AC001689,continue,PH004299,0.387,best-number RPC-propensity above threshold
+AC001690,continue,PH004301,0.153,best-number RPC-propensity above threshold
+AC001691,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001692,continue,PH004304,0.171,best-number RPC-propensity above threshold
+AC001693,continue,PH004306,0.21,best-number RPC-propensity above threshold
+AC001694,continue,PH004307,0.271,best-number RPC-propensity above threshold
+AC001695,continue,PH004309,0.171,best-number RPC-propensity above threshold
+AC001696,continue,PH004311,0.221,best-number RPC-propensity above threshold
+AC001697,continue,PH004313,0.375,best-number RPC-propensity above threshold
+AC001698,continue,PH004315,0.237,best-number RPC-propensity above threshold
+AC001699,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001700,continue,PH004318,0.174,best-number RPC-propensity above threshold
+AC001701,continue,PH004320,0.257,best-number RPC-propensity above threshold
+AC001702,continue,PH004324,0.182,best-number RPC-propensity above threshold
+AC001703,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001704,continue,PH004331,0.237,best-number RPC-propensity above threshold
+AC001705,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001706,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001707,continue,PH004336,0.237,best-number RPC-propensity above threshold
+AC001708,continue,PH004339,0.21,best-number RPC-propensity above threshold
+AC001709,continue,PH004342,0.375,best-number RPC-propensity above threshold
+AC001710,continue,PH004344,0.171,best-number RPC-propensity above threshold
+AC001711,continue,PH004347,0.271,best-number RPC-propensity above threshold
+AC001712,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001713,continue,PH004349,0.257,best-number RPC-propensity above threshold
+AC001714,continue,PH004350,0.221,best-number RPC-propensity above threshold
+AC001715,continue,PH004352,0.21,best-number RPC-propensity above threshold
+AC001716,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001717,continue,PH004357,0.237,best-number RPC-propensity above threshold
+AC001718,continue,PH004359,0.153,best-number RPC-propensity above threshold
+AC001719,continue,PH004361,0.271,best-number RPC-propensity above threshold
+AC001720,continue,PH004362,0.174,best-number RPC-propensity above threshold
+AC001721,continue,PH004364,0.271,best-number RPC-propensity above threshold
+AC001722,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001723,continue,PH004368,0.174,best-number RPC-propensity above threshold
+AC001724,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001725,continue,PH004372,0.153,best-number RPC-propensity above threshold
+AC001726,continue,PH004375,0.171,best-number RPC-propensity above threshold
+AC001727,continue,PH004377,0.21,best-number RPC-propensity above threshold
+AC001728,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001729,continue,PH004379,0.237,best-number RPC-propensity above threshold
+AC001730,continue,PH004382,0.387,best-number RPC-propensity above threshold
+AC001731,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001732,continue,PH004386,0.257,best-number RPC-propensity above threshold
+AC001733,continue,PH004388,0.174,best-number RPC-propensity above threshold
+AC001734,continue,PH004389,0.237,best-number RPC-propensity above threshold
+AC001735,continue,PH004391,0.375,best-number RPC-propensity above threshold
+AC001736,continue,PH004393,0.237,best-number RPC-propensity above threshold
+AC001737,continue,PH004395,0.221,best-number RPC-propensity above threshold
+AC001738,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001739,continue,PH004398,0.257,best-number RPC-propensity above threshold
+AC001740,continue,PH004401,0.387,best-number RPC-propensity above threshold
+AC001741,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001742,continue,PH004406,0.171,best-number RPC-propensity above threshold
+AC001743,continue,PH004410,0.237,best-number RPC-propensity above threshold
+AC001744,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001745,continue,PH004412,0.387,best-number RPC-propensity above threshold
+AC001746,continue,PH005867,0.234,best-number RPC-propensity above threshold
+AC001747,continue,PH004415,0.21,best-number RPC-propensity above threshold
+AC001748,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001749,continue,PH004418,0.375,best-number RPC-propensity above threshold
+AC001750,continue,PH004420,0.257,best-number RPC-propensity above threshold
+AC001751,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001752,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001753,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001754,continue,PH004427,0.237,best-number RPC-propensity above threshold
+AC001755,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001756,continue,PH004431,0.21,best-number RPC-propensity above threshold
+AC001757,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001758,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001759,continue,PH004437,0.237,best-number RPC-propensity above threshold
+AC001760,continue,PH004439,0.375,best-number RPC-propensity above threshold
+AC001761,continue,PH004440,0.21,best-number RPC-propensity above threshold
+AC001762,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001763,continue,PH004447,0.271,best-number RPC-propensity above threshold
+AC001764,continue,PH004448,0.237,best-number RPC-propensity above threshold
+AC001766,continue,PH004452,0.237,best-number RPC-propensity above threshold
+AC001767,continue,PH004454,0.153,best-number RPC-propensity above threshold
+AC001768,continue,PH005884,0.237,best-number RPC-propensity above threshold
+AC001769,continue,PH004458,0.237,best-number RPC-propensity above threshold
+AC001770,continue,PH004461,0.171,best-number RPC-propensity above threshold
+AC001771,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001772,continue,PH004464,0.174,best-number RPC-propensity above threshold
+AC001773,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001774,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001775,continue,PH005835,0.171,best-number RPC-propensity above threshold
+AC001776,continue,PH004473,0.387,best-number RPC-propensity above threshold
+AC001777,continue,PH004475,0.221,best-number RPC-propensity above threshold
+AC001778,continue,PH004477,0.21,best-number RPC-propensity above threshold
+AC001779,continue,PH004481,0.153,best-number RPC-propensity above threshold
+AC001780,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001781,continue,PH004484,0.271,best-number RPC-propensity above threshold
+AC001782,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001783,continue,PH004486,0.375,best-number RPC-propensity above threshold
+AC001784,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001785,continue,PH004492,0.221,best-number RPC-propensity above threshold
+AC001786,continue,PH004494,0.21,best-number RPC-propensity above threshold
+AC001787,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001788,continue,PH004498,0.257,best-number RPC-propensity above threshold
+AC001789,continue,PH004499,0.171,best-number RPC-propensity above threshold
+AC001790,continue,PH004500,0.153,best-number RPC-propensity above threshold
+AC001791,continue,PH004503,0.387,best-number RPC-propensity above threshold
+AC001792,continue,PH004505,0.21,best-number RPC-propensity above threshold
+AC001793,continue,PH004506,0.153,best-number RPC-propensity above threshold
+AC001794,continue,PH004509,0.21,best-number RPC-propensity above threshold
+AC001795,continue,PH004510,0.271,best-number RPC-propensity above threshold
+AC001796,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001797,continue,PH004514,0.237,best-number RPC-propensity above threshold
+AC001798,continue,PH004516,0.174,best-number RPC-propensity above threshold
+AC001799,continue,PH004518,0.21,best-number RPC-propensity above threshold
+AC001801,continue,PH005843,0.21,best-number RPC-propensity above threshold
+AC001802,continue,PH004523,0.234,best-number RPC-propensity above threshold
+AC001803,continue,PH004526,0.221,best-number RPC-propensity above threshold
+AC001804,continue,PH004529,0.25,best-number RPC-propensity above threshold
+AC001805,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001806,switch_channel,PH004535,0.096,valid but avoiding -> WhatsApp/field instead of redial
+AC001807,continue,PH004537,0.237,best-number RPC-propensity above threshold
+AC001808,continue,PH005888,0.257,best-number RPC-propensity above threshold
+AC001809,continue,PH004540,0.257,best-number RPC-propensity above threshold
+AC001810,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001811,continue,PH004545,0.182,best-number RPC-propensity above threshold
+AC001812,continue,PH004548,0.153,best-number RPC-propensity above threshold
+AC001813,continue,PH005930,0.171,best-number RPC-propensity above threshold
+AC001814,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001815,continue,PH004555,0.21,best-number RPC-propensity above threshold
+AC001816,continue,PH004558,0.237,best-number RPC-propensity above threshold
+AC001817,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001818,continue,PH004563,0.21,best-number RPC-propensity above threshold
+AC001819,continue,PH004565,0.375,best-number RPC-propensity above threshold
+AC001820,continue,PH004568,0.21,best-number RPC-propensity above threshold
+AC001821,continue,PH004569,0.21,best-number RPC-propensity above threshold
+AC001822,continue,PH004570,0.21,best-number RPC-propensity above threshold
+AC001823,continue,PH004572,0.237,best-number RPC-propensity above threshold
+AC001824,continue,PH004575,0.237,best-number RPC-propensity above threshold
+AC001825,continue,PH004576,0.237,best-number RPC-propensity above threshold
+AC001826,continue,PH004577,0.334,best-number RPC-propensity above threshold
+AC001827,continue,PH004579,0.174,best-number RPC-propensity above threshold
+AC001828,continue,PH004580,0.257,best-number RPC-propensity above threshold
+AC001829,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001830,continue,PH004584,0.153,best-number RPC-propensity above threshold
+AC001831,continue,PH004586,0.174,best-number RPC-propensity above threshold
+AC001832,continue,PH004589,0.153,best-number RPC-propensity above threshold
+AC001833,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001834,continue,PH004594,0.234,best-number RPC-propensity above threshold
+AC001836,continue,PH004597,0.257,best-number RPC-propensity above threshold
+AC001837,continue,PH004599,0.221,best-number RPC-propensity above threshold
+AC001839,continue,PH004601,0.153,best-number RPC-propensity above threshold
+AC001840,continue,PH004602,0.21,best-number RPC-propensity above threshold
+AC001841,continue,PH004604,0.171,best-number RPC-propensity above threshold
+AC001842,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001843,continue,PH004610,0.375,best-number RPC-propensity above threshold
+AC001844,continue,PH004611,0.257,best-number RPC-propensity above threshold
+AC001845,continue,PH004613,0.257,best-number RPC-propensity above threshold
+AC001846,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001847,continue,PH004618,0.237,best-number RPC-propensity above threshold
+AC001848,continue,PH004619,0.271,best-number RPC-propensity above threshold
+AC001849,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001850,continue,PH004623,0.237,best-number RPC-propensity above threshold
+AC001851,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001852,continue,PH005950,0.153,best-number RPC-propensity above threshold
+AC001853,continue,PH004628,0.171,best-number RPC-propensity above threshold
+AC001854,continue,PH004631,0.387,best-number RPC-propensity above threshold
+AC001855,continue,PH004633,0.153,best-number RPC-propensity above threshold
+AC001856,continue,PH004634,0.153,best-number RPC-propensity above threshold
+AC001857,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001858,continue,PH004637,0.237,best-number RPC-propensity above threshold
+AC001859,continue,PH004639,0.237,best-number RPC-propensity above threshold
+AC001860,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001861,continue,PH004643,0.221,best-number RPC-propensity above threshold
+AC001862,continue,PH004647,0.21,best-number RPC-propensity above threshold
+AC001863,continue,PH004649,0.375,best-number RPC-propensity above threshold
+AC001864,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001865,continue,PH004654,0.174,best-number RPC-propensity above threshold
+AC001866,continue,PH004658,0.237,best-number RPC-propensity above threshold
+AC001867,continue,PH005855,0.171,best-number RPC-propensity above threshold
+AC001868,continue,PH004662,0.234,best-number RPC-propensity above threshold
+AC001869,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001870,continue,PH004667,0.153,best-number RPC-propensity above threshold
+AC001871,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001872,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001873,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001874,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001875,continue,PH004680,0.153,best-number RPC-propensity above threshold
+AC001876,continue,PH004682,0.237,best-number RPC-propensity above threshold
+AC001877,continue,PH004684,0.387,best-number RPC-propensity above threshold
+AC001878,continue,PH004687,0.237,best-number RPC-propensity above threshold
+AC001879,continue,PH004688,0.257,best-number RPC-propensity above threshold
+AC001880,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001881,continue,PH004694,0.257,best-number RPC-propensity above threshold
+AC001882,continue,PH004697,0.171,best-number RPC-propensity above threshold
+AC001883,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001884,continue,PH004702,0.375,best-number RPC-propensity above threshold
+AC001885,continue,PH004703,0.375,best-number RPC-propensity above threshold
+AC001886,continue,PH004705,0.387,best-number RPC-propensity above threshold
+AC001887,continue,PH004707,0.375,best-number RPC-propensity above threshold
+AC001888,continue,PH004709,0.221,best-number RPC-propensity above threshold
+AC001889,continue,PH004711,0.237,best-number RPC-propensity above threshold
+AC001890,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001891,continue,PH004715,0.174,best-number RPC-propensity above threshold
+AC001892,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001893,continue,PH004719,0.174,best-number RPC-propensity above threshold
+AC001894,continue,PH004721,0.237,best-number RPC-propensity above threshold
+AC001895,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001896,continue,PH004724,0.375,best-number RPC-propensity above threshold
+AC001897,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001898,continue,PH005856,0.153,best-number RPC-propensity above threshold
+AC001899,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001900,continue,PH004734,0.375,best-number RPC-propensity above threshold
+AC001901,continue,PH004737,0.153,best-number RPC-propensity above threshold
+AC001902,continue,PH004739,0.237,best-number RPC-propensity above threshold
+AC001903,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001904,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001905,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001906,continue,PH004746,0.257,best-number RPC-propensity above threshold
+AC001907,continue,PH004749,0.257,best-number RPC-propensity above threshold
+AC001908,continue,PH004751,0.237,best-number RPC-propensity above threshold
+AC001909,continue,PH004754,0.21,best-number RPC-propensity above threshold
+AC001911,continue,PH004760,0.174,best-number RPC-propensity above threshold
+AC001912,continue,PH004761,0.174,best-number RPC-propensity above threshold
+AC001913,continue,PH004764,0.237,best-number RPC-propensity above threshold
+AC001914,continue,PH004766,0.171,best-number RPC-propensity above threshold
+AC001915,continue,PH004768,0.171,best-number RPC-propensity above threshold
+AC001916,continue,PH004770,0.237,best-number RPC-propensity above threshold
+AC001917,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001918,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001919,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001920,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001921,continue,PH004778,0.153,best-number RPC-propensity above threshold
+AC001922,continue,PH004783,0.153,best-number RPC-propensity above threshold
+AC001923,continue,PH004786,0.234,best-number RPC-propensity above threshold
+AC001924,continue,PH004788,0.153,best-number RPC-propensity above threshold
+AC001925,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001926,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001927,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001928,continue,PH004796,0.387,best-number RPC-propensity above threshold
+AC001929,continue,PH004797,0.375,best-number RPC-propensity above threshold
+AC001930,continue,PH004799,0.153,best-number RPC-propensity above threshold
+AC001931,continue,PH004802,0.271,best-number RPC-propensity above threshold
+AC001933,continue,PH004807,0.237,best-number RPC-propensity above threshold
+AC001934,continue,PH004809,0.153,best-number RPC-propensity above threshold
+AC001935,continue,PH004810,0.21,best-number RPC-propensity above threshold
+AC001936,continue,PH004813,0.21,best-number RPC-propensity above threshold
+AC001937,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001938,continue,PH004815,0.375,best-number RPC-propensity above threshold
+AC001939,continue,PH004816,0.237,best-number RPC-propensity above threshold
+AC001940,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001941,continue,PH004819,0.171,best-number RPC-propensity above threshold
+AC001942,continue,PH004821,0.257,best-number RPC-propensity above threshold
+AC001943,continue,PH005840,0.257,best-number RPC-propensity above threshold
+AC001944,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001945,continue,PH004826,0.271,best-number RPC-propensity above threshold
+AC001946,continue,PH004829,0.237,best-number RPC-propensity above threshold
+AC001947,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001948,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001949,continue,PH005870,0.375,best-number RPC-propensity above threshold
+AC001950,continue,PH004838,0.387,best-number RPC-propensity above threshold
+AC001951,continue,PH005943,0.21,best-number RPC-propensity above threshold
+AC001952,continue,PH004840,0.257,best-number RPC-propensity above threshold
+AC001953,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001954,continue,PH004844,0.271,best-number RPC-propensity above threshold
+AC001955,continue,PH004847,0.237,best-number RPC-propensity above threshold
+AC001956,continue,PH004849,0.153,best-number RPC-propensity above threshold
+AC001957,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001958,continue,PH004853,0.171,best-number RPC-propensity above threshold
+AC001959,continue,PH004854,0.153,best-number RPC-propensity above threshold
+AC001960,continue,PH004857,0.221,best-number RPC-propensity above threshold
+AC001961,continue,PH004860,0.221,best-number RPC-propensity above threshold
+AC001962,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001963,continue,PH004865,0.21,best-number RPC-propensity above threshold
+AC001964,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001965,continue,PH004867,0.237,best-number RPC-propensity above threshold
+AC001966,continue,PH004870,0.153,best-number RPC-propensity above threshold
+AC001967,continue,PH004873,0.171,best-number RPC-propensity above threshold
+AC001968,continue,PH004877,0.375,best-number RPC-propensity above threshold
+AC001969,continue,PH004880,0.182,best-number RPC-propensity above threshold
+AC001970,continue,PH004883,0.153,best-number RPC-propensity above threshold
+AC001971,continue,PH004885,0.271,best-number RPC-propensity above threshold
+AC001972,continue,PH004886,0.234,best-number RPC-propensity above threshold
+AC001973,continue,PH004888,0.171,best-number RPC-propensity above threshold
+AC001974,continue,PH004890,0.257,best-number RPC-propensity above threshold
+AC001975,continue,PH004891,0.21,best-number RPC-propensity above threshold
+AC001976,continue,PH004893,0.237,best-number RPC-propensity above threshold
+AC001977,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001978,continue,PH004898,0.257,best-number RPC-propensity above threshold
+AC001980,continue,PH004903,0.21,best-number RPC-propensity above threshold
+AC001981,continue,PH004906,0.237,best-number RPC-propensity above threshold
+AC001982,continue,PH004907,0.174,best-number RPC-propensity above threshold
+AC001983,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001984,continue,PH004912,0.237,best-number RPC-propensity above threshold
+AC001985,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001986,continue,PH004917,0.221,best-number RPC-propensity above threshold
+AC001987,continue,PH005944,0.21,best-number RPC-propensity above threshold
+AC001988,continue,PH004922,0.21,best-number RPC-propensity above threshold
+AC001989,continue,PH004926,0.257,best-number RPC-propensity above threshold
+AC001990,continue,PH004928,0.237,best-number RPC-propensity above threshold
+AC001991,continue,PH004932,0.21,best-number RPC-propensity above threshold
+AC001992,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC001993,continue,PH005908,0.171,best-number RPC-propensity above threshold
+AC001994,continue,PH004939,0.375,best-number RPC-propensity above threshold
+AC001995,continue,PH004941,0.21,best-number RPC-propensity above threshold
+AC001996,continue,PH004943,0.21,best-number RPC-propensity above threshold
+AC001997,continue,PH004945,0.221,best-number RPC-propensity above threshold
+AC001998,continue,PH005819,0.182,best-number RPC-propensity above threshold
+AC001999,continue,PH004948,0.171,best-number RPC-propensity above threshold
+AC002000,continue,PH004951,0.153,best-number RPC-propensity above threshold
+AC002001,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002002,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002003,continue,PH004957,0.271,best-number RPC-propensity above threshold
+AC002005,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002006,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002007,continue,PH004965,0.234,best-number RPC-propensity above threshold
+AC002008,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002009,continue,PH004969,0.387,best-number RPC-propensity above threshold
+AC002010,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002011,continue,PH004971,0.221,best-number RPC-propensity above threshold
+AC002012,continue,PH004974,0.21,best-number RPC-propensity above threshold
+AC002013,continue,PH004977,0.271,best-number RPC-propensity above threshold
+AC002015,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002016,continue,PH004983,0.21,best-number RPC-propensity above threshold
+AC002017,continue,PH005821,0.257,best-number RPC-propensity above threshold
+AC002018,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002019,continue,PH004988,0.153,best-number RPC-propensity above threshold
+AC002020,continue,PH004989,0.237,best-number RPC-propensity above threshold
+AC002021,continue,PH004991,0.237,best-number RPC-propensity above threshold
+AC002022,continue,PH004993,0.21,best-number RPC-propensity above threshold
+AC002023,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002024,continue,PH004995,0.21,best-number RPC-propensity above threshold
+AC002025,continue,PH004999,0.21,best-number RPC-propensity above threshold
+AC002026,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002027,continue,PH005002,0.221,best-number RPC-propensity above threshold
+AC002028,continue,PH005003,0.221,best-number RPC-propensity above threshold
+AC002029,continue,PH005005,0.174,best-number RPC-propensity above threshold
+AC002030,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002031,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002032,continue,PH005010,0.387,best-number RPC-propensity above threshold
+AC002033,continue,PH005011,0.271,best-number RPC-propensity above threshold
+AC002034,continue,PH005013,0.21,best-number RPC-propensity above threshold
+AC002035,continue,PH005015,0.375,best-number RPC-propensity above threshold
+AC002036,continue,PH005018,0.271,best-number RPC-propensity above threshold
+AC002037,continue,PH005019,0.237,best-number RPC-propensity above threshold
+AC002038,continue,PH005020,0.174,best-number RPC-propensity above threshold
+AC002039,continue,PH005023,0.221,best-number RPC-propensity above threshold
+AC002040,continue,PH005871,0.221,best-number RPC-propensity above threshold
+AC002041,continue,PH005028,0.221,best-number RPC-propensity above threshold
+AC002042,switch_channel,PH005030,0.013,valid but avoiding -> WhatsApp/field instead of redial
+AC002043,continue,PH005032,0.375,best-number RPC-propensity above threshold
+AC002044,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002045,continue,PH005037,0.171,best-number RPC-propensity above threshold
+AC002046,continue,PH005041,0.221,best-number RPC-propensity above threshold
+AC002047,continue,PH005043,0.21,best-number RPC-propensity above threshold
+AC002048,continue,PH005933,0.153,best-number RPC-propensity above threshold
+AC002049,continue,PH005050,0.153,best-number RPC-propensity above threshold
+AC002050,continue,PH005054,0.21,best-number RPC-propensity above threshold
+AC002052,continue,PH005059,0.221,best-number RPC-propensity above threshold
+AC002053,continue,PH005878,0.153,best-number RPC-propensity above threshold
+AC002054,continue,PH005064,0.21,best-number RPC-propensity above threshold
+AC002055,continue,PH005066,0.221,best-number RPC-propensity above threshold
+AC002056,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002057,continue,PH005071,0.257,best-number RPC-propensity above threshold
+AC002058,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002059,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002060,continue,PH005075,0.21,best-number RPC-propensity above threshold
+AC002061,continue,PH005076,0.237,best-number RPC-propensity above threshold
+AC002062,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002063,continue,PH005078,0.237,best-number RPC-propensity above threshold
+AC002064,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002065,continue,PH005922,0.153,best-number RPC-propensity above threshold
+AC002066,continue,PH005084,0.21,best-number RPC-propensity above threshold
+AC002067,continue,PH005086,0.257,best-number RPC-propensity above threshold
+AC002068,continue,PH005087,0.375,best-number RPC-propensity above threshold
+AC002069,continue,PH005088,0.257,best-number RPC-propensity above threshold
+AC002070,continue,PH005090,0.153,best-number RPC-propensity above threshold
+AC002071,continue,PH005824,0.171,best-number RPC-propensity above threshold
+AC002072,continue,PH005094,0.153,best-number RPC-propensity above threshold
+AC002073,continue,PH005096,0.221,best-number RPC-propensity above threshold
+AC002074,continue,PH005098,0.21,best-number RPC-propensity above threshold
+AC002075,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002076,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002077,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002078,continue,PH005105,0.21,best-number RPC-propensity above threshold
+AC002079,continue,PH005108,0.375,best-number RPC-propensity above threshold
+AC002080,continue,PH005112,0.257,best-number RPC-propensity above threshold
+AC002081,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002082,continue,PH005117,0.237,best-number RPC-propensity above threshold
+AC002083,continue,PH005121,0.153,best-number RPC-propensity above threshold
+AC002084,continue,PH005122,0.171,best-number RPC-propensity above threshold
+AC002085,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002086,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002087,continue,PH005127,0.257,best-number RPC-propensity above threshold
+AC002088,continue,PH005129,0.257,best-number RPC-propensity above threshold
+AC002089,continue,PH005131,0.234,best-number RPC-propensity above threshold
+AC002090,continue,PH005133,0.257,best-number RPC-propensity above threshold
+AC002091,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002092,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002093,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002094,continue,PH005141,0.21,best-number RPC-propensity above threshold
+AC002095,continue,PH005144,0.234,best-number RPC-propensity above threshold
+AC002096,continue,PH005147,0.153,best-number RPC-propensity above threshold
+AC002097,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002098,continue,PH005152,0.153,best-number RPC-propensity above threshold
+AC002099,continue,PH005154,0.153,best-number RPC-propensity above threshold
+AC002100,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002101,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002102,continue,PH005160,0.271,best-number RPC-propensity above threshold
+AC002103,continue,PH005812,0.153,best-number RPC-propensity above threshold
+AC002104,continue,PH005163,0.387,best-number RPC-propensity above threshold
+AC002105,continue,PH005167,0.237,best-number RPC-propensity above threshold
+AC002106,continue,PH005837,0.257,best-number RPC-propensity above threshold
+AC002107,continue,PH005171,0.174,best-number RPC-propensity above threshold
+AC002108,continue,PH005857,0.234,best-number RPC-propensity above threshold
+AC002109,continue,PH005177,0.153,best-number RPC-propensity above threshold
+AC002110,continue,PH005179,0.271,best-number RPC-propensity above threshold
+AC002111,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002112,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002113,continue,PH005186,0.237,best-number RPC-propensity above threshold
+AC002114,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002115,continue,PH005191,0.153,best-number RPC-propensity above threshold
+AC002116,continue,PH005194,0.237,best-number RPC-propensity above threshold
+AC002117,continue,PH005196,0.21,best-number RPC-propensity above threshold
+AC002118,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002119,continue,PH005202,0.375,best-number RPC-propensity above threshold
+AC002120,continue,PH005203,0.237,best-number RPC-propensity above threshold
+AC002121,continue,PH005205,0.257,best-number RPC-propensity above threshold
+AC002122,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002123,continue,PH005209,0.21,best-number RPC-propensity above threshold
+AC002124,continue,PH005210,0.237,best-number RPC-propensity above threshold
+AC002125,continue,PH005212,0.375,best-number RPC-propensity above threshold
+AC002126,continue,PH005214,0.237,best-number RPC-propensity above threshold
+AC002127,continue,PH005217,0.21,best-number RPC-propensity above threshold
+AC002128,continue,PH005220,0.257,best-number RPC-propensity above threshold
+AC002129,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002130,continue,PH005223,0.182,best-number RPC-propensity above threshold
+AC002131,continue,PH005224,0.271,best-number RPC-propensity above threshold
+AC002132,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002133,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002134,continue,PH005232,0.153,best-number RPC-propensity above threshold
+AC002135,continue,PH005236,0.171,best-number RPC-propensity above threshold
+AC002136,continue,PH005237,0.237,best-number RPC-propensity above threshold
+AC002137,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002138,continue,PH005240,0.375,best-number RPC-propensity above threshold
+AC002139,continue,PH005242,0.237,best-number RPC-propensity above threshold
+AC002140,continue,PH005245,0.171,best-number RPC-propensity above threshold
+AC002141,continue,PH005247,0.153,best-number RPC-propensity above threshold
+AC002142,continue,PH005251,0.387,best-number RPC-propensity above threshold
+AC002143,continue,PH005254,0.375,best-number RPC-propensity above threshold
+AC002144,continue,PH005255,0.21,best-number RPC-propensity above threshold
+AC002145,continue,PH005257,0.257,best-number RPC-propensity above threshold
+AC002146,continue,PH005260,0.21,best-number RPC-propensity above threshold
+AC002147,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002148,continue,PH005901,0.257,best-number RPC-propensity above threshold
+AC002149,continue,PH005269,0.237,best-number RPC-propensity above threshold
+AC002150,continue,PH005270,0.21,best-number RPC-propensity above threshold
+AC002151,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002152,continue,PH005274,0.375,best-number RPC-propensity above threshold
+AC002153,continue,PH005275,0.221,best-number RPC-propensity above threshold
+AC002154,continue,PH005277,0.221,best-number RPC-propensity above threshold
+AC002155,continue,PH005279,0.257,best-number RPC-propensity above threshold
+AC002156,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002157,continue,PH005284,0.237,best-number RPC-propensity above threshold
+AC002158,continue,PH005285,0.171,best-number RPC-propensity above threshold
+AC002159,continue,PH005288,0.271,best-number RPC-propensity above threshold
+AC002160,continue,PH005291,0.237,best-number RPC-propensity above threshold
+AC002161,continue,PH005292,0.237,best-number RPC-propensity above threshold
+AC002162,continue,PH005296,0.257,best-number RPC-propensity above threshold
+AC002163,continue,PH005298,0.171,best-number RPC-propensity above threshold
+AC002164,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002165,continue,PH005301,0.174,best-number RPC-propensity above threshold
+AC002166,continue,PH005305,0.237,best-number RPC-propensity above threshold
+AC002167,continue,PH005308,0.21,best-number RPC-propensity above threshold
+AC002168,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002169,continue,PH005312,0.237,best-number RPC-propensity above threshold
+AC002170,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002171,continue,PH005316,0.171,best-number RPC-propensity above threshold
+AC002172,continue,PH005320,0.375,best-number RPC-propensity above threshold
+AC002173,continue,PH005323,0.375,best-number RPC-propensity above threshold
+AC002174,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002175,continue,PH005325,0.171,best-number RPC-propensity above threshold
+AC002176,continue,PH005330,0.171,best-number RPC-propensity above threshold
+AC002177,continue,PH005331,0.257,best-number RPC-propensity above threshold
+AC002178,continue,PH005332,0.174,best-number RPC-propensity above threshold
+AC002179,continue,PH005334,0.271,best-number RPC-propensity above threshold
+AC002180,continue,PH005337,0.174,best-number RPC-propensity above threshold
+AC002181,continue,PH005341,0.271,best-number RPC-propensity above threshold
+AC002182,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002183,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002184,continue,PH005347,0.257,best-number RPC-propensity above threshold
+AC002185,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002186,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002187,continue,PH005354,0.375,best-number RPC-propensity above threshold
+AC002188,continue,PH005356,0.271,best-number RPC-propensity above threshold
+AC002189,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002190,continue,PH005359,0.387,best-number RPC-propensity above threshold
+AC002191,continue,PH005361,0.171,best-number RPC-propensity above threshold
+AC002192,continue,PH005841,0.375,best-number RPC-propensity above threshold
+AC002193,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002194,continue,PH005367,0.21,best-number RPC-propensity above threshold
+AC002195,continue,PH005369,0.153,best-number RPC-propensity above threshold
+AC002196,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002197,continue,PH005372,0.21,best-number RPC-propensity above threshold
+AC002198,continue,PH005374,0.257,best-number RPC-propensity above threshold
+AC002199,continue,PH005376,0.21,best-number RPC-propensity above threshold
+AC002200,continue,PH005377,0.174,best-number RPC-propensity above threshold
+AC002201,continue,PH005379,0.153,best-number RPC-propensity above threshold
+AC002202,continue,PH005382,0.153,best-number RPC-propensity above threshold
+AC002203,continue,PH005385,0.21,best-number RPC-propensity above threshold
+AC002204,continue,PH005816,0.375,best-number RPC-propensity above threshold
+AC002205,continue,PH005387,0.21,best-number RPC-propensity above threshold
+AC002206,continue,PH005390,0.21,best-number RPC-propensity above threshold
+AC002207,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002208,continue,PH005394,0.171,best-number RPC-propensity above threshold
+AC002209,continue,PH005395,0.221,best-number RPC-propensity above threshold
+AC002210,continue,PH005398,0.257,best-number RPC-propensity above threshold
+AC002211,continue,PH005401,0.237,best-number RPC-propensity above threshold
+AC002212,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002213,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002214,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002215,continue,PH005412,0.221,best-number RPC-propensity above threshold
+AC002216,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002217,continue,PH005416,0.271,best-number RPC-propensity above threshold
+AC002218,continue,PH005419,0.271,best-number RPC-propensity above threshold
+AC002219,continue,PH005421,0.153,best-number RPC-propensity above threshold
+AC002220,continue,PH005423,0.257,best-number RPC-propensity above threshold
+AC002221,continue,PH005424,0.221,best-number RPC-propensity above threshold
+AC002222,continue,PH005426,0.221,best-number RPC-propensity above threshold
+AC002223,continue,PH005430,0.257,best-number RPC-propensity above threshold
+AC002224,continue,PH005432,0.257,best-number RPC-propensity above threshold
+AC002225,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002226,continue,PH005436,0.237,best-number RPC-propensity above threshold
+AC002227,continue,PH005438,0.153,best-number RPC-propensity above threshold
+AC002228,continue,PH005440,0.237,best-number RPC-propensity above threshold
+AC002229,continue,PH005444,0.174,best-number RPC-propensity above threshold
+AC002230,continue,PH005446,0.375,best-number RPC-propensity above threshold
+AC002231,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002232,continue,PH005450,0.171,best-number RPC-propensity above threshold
+AC002233,continue,PH005452,0.387,best-number RPC-propensity above threshold
+AC002234,continue,PH005893,0.237,best-number RPC-propensity above threshold
+AC002235,continue,PH005455,0.257,best-number RPC-propensity above threshold
+AC002236,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002237,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002238,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002239,continue,PH005463,0.375,best-number RPC-propensity above threshold
+AC002240,continue,PH005467,0.221,best-number RPC-propensity above threshold
+AC002241,continue,PH005470,0.375,best-number RPC-propensity above threshold
+AC002242,continue,PH005471,0.257,best-number RPC-propensity above threshold
+AC002243,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002244,continue,PH005475,0.237,best-number RPC-propensity above threshold
+AC002245,continue,PH005477,0.237,best-number RPC-propensity above threshold
+AC002246,continue,PH005478,0.171,best-number RPC-propensity above threshold
+AC002247,continue,PH005481,0.153,best-number RPC-propensity above threshold
+AC002248,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002249,continue,PH005486,0.21,best-number RPC-propensity above threshold
+AC002250,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002251,continue,PH005491,0.21,best-number RPC-propensity above threshold
+AC002252,continue,PH005496,0.271,best-number RPC-propensity above threshold
+AC002253,continue,PH005497,0.257,best-number RPC-propensity above threshold
+AC002254,continue,PH005500,0.21,best-number RPC-propensity above threshold
+AC002255,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002256,continue,PH005503,0.237,best-number RPC-propensity above threshold
+AC002257,continue,PH005505,0.237,best-number RPC-propensity above threshold
+AC002258,continue,PH005506,0.221,best-number RPC-propensity above threshold
+AC002259,continue,PH005509,0.257,best-number RPC-propensity above threshold
+AC002260,continue,PH005511,0.21,best-number RPC-propensity above threshold
+AC002261,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002262,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002263,continue,PH005519,0.21,best-number RPC-propensity above threshold
+AC002264,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002265,continue,PH005527,1.0,best-number RPC-propensity above threshold
+AC002266,continue,PH005528,0.271,best-number RPC-propensity above threshold
+AC002267,continue,PH005530,0.375,best-number RPC-propensity above threshold
+AC002268,continue,PH005531,0.174,best-number RPC-propensity above threshold
+AC002269,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002270,continue,PH005537,0.375,best-number RPC-propensity above threshold
+AC002271,continue,PH005538,0.237,best-number RPC-propensity above threshold
+AC002272,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002273,continue,PH005542,0.257,best-number RPC-propensity above threshold
+AC002274,continue,PH005543,0.257,best-number RPC-propensity above threshold
+AC002275,continue,PH005546,0.21,best-number RPC-propensity above threshold
+AC002276,continue,PH005547,0.21,best-number RPC-propensity above threshold
+AC002277,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002278,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002279,continue,PH005554,0.21,best-number RPC-propensity above threshold
+AC002280,continue,PH005556,0.271,best-number RPC-propensity above threshold
+AC002281,continue,PH005558,0.237,best-number RPC-propensity above threshold
+AC002282,continue,PH005561,0.257,best-number RPC-propensity above threshold
+AC002283,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002284,continue,PH005565,0.375,best-number RPC-propensity above threshold
+AC002285,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002286,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002287,continue,PH005568,0.375,best-number RPC-propensity above threshold
+AC002288,continue,PH005570,0.174,best-number RPC-propensity above threshold
+AC002289,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002290,continue,PH005575,0.375,best-number RPC-propensity above threshold
+AC002291,continue,PH005576,0.271,best-number RPC-propensity above threshold
+AC002292,continue,PH005579,0.171,best-number RPC-propensity above threshold
+AC002293,continue,PH005584,0.257,best-number RPC-propensity above threshold
+AC002294,continue,PH005587,0.174,best-number RPC-propensity above threshold
+AC002295,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002296,continue,PH005591,0.21,best-number RPC-propensity above threshold
+AC002297,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002298,continue,PH005596,0.237,best-number RPC-propensity above threshold
+AC002299,continue,PH005599,0.237,best-number RPC-propensity above threshold
+AC002300,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002301,continue,PH005602,0.237,best-number RPC-propensity above threshold
+AC002302,continue,PH005603,0.271,best-number RPC-propensity above threshold
+AC002303,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002304,continue,PH005609,0.257,best-number RPC-propensity above threshold
+AC002305,continue,PH005610,0.234,best-number RPC-propensity above threshold
+AC002306,continue,PH005614,0.234,best-number RPC-propensity above threshold
+AC002307,continue,PH005618,0.237,best-number RPC-propensity above threshold
+AC002308,continue,PH005619,0.21,best-number RPC-propensity above threshold
+AC002309,continue,PH005621,0.221,best-number RPC-propensity above threshold
+AC002311,continue,PH005625,0.237,best-number RPC-propensity above threshold
+AC002312,continue,PH005630,0.21,best-number RPC-propensity above threshold
+AC002313,continue,PH005631,0.257,best-number RPC-propensity above threshold
+AC002314,continue,PH005633,0.271,best-number RPC-propensity above threshold
+AC002315,continue,PH005635,0.237,best-number RPC-propensity above threshold
+AC002316,continue,PH005638,0.174,best-number RPC-propensity above threshold
+AC002317,continue,PH005640,0.21,best-number RPC-propensity above threshold
+AC002318,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002319,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002320,continue,PH005643,0.21,best-number RPC-propensity above threshold
+AC002321,continue,PH005644,0.153,best-number RPC-propensity above threshold
+AC002322,continue,PH005849,0.21,best-number RPC-propensity above threshold
+AC002323,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002324,continue,PH005651,0.153,best-number RPC-propensity above threshold
+AC002325,continue,PH005654,0.21,best-number RPC-propensity above threshold
+AC002326,continue,PH005934,0.21,best-number RPC-propensity above threshold
+AC002327,continue,PH005657,0.387,best-number RPC-propensity above threshold
+AC002328,continue,PH005660,0.375,best-number RPC-propensity above threshold
+AC002329,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002330,continue,PH005664,0.221,best-number RPC-propensity above threshold
+AC002331,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002332,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002333,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002334,continue,PH005674,0.271,best-number RPC-propensity above threshold
+AC002335,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002336,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002337,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002338,continue,PH005681,0.21,best-number RPC-propensity above threshold
+AC002339,continue,PH005684,0.257,best-number RPC-propensity above threshold
+AC002340,continue,PH005687,0.271,best-number RPC-propensity above threshold
+AC002341,continue,PH005690,0.237,best-number RPC-propensity above threshold
+AC002342,continue,PH005693,0.21,best-number RPC-propensity above threshold
+AC002343,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002344,continue,PH005695,0.153,best-number RPC-propensity above threshold
+AC002345,continue,PH005885,0.174,best-number RPC-propensity above threshold
+AC002346,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002347,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002348,continue,PH005702,0.221,best-number RPC-propensity above threshold
+AC002349,continue,PH005705,0.182,best-number RPC-propensity above threshold
+AC002350,continue,PH005706,0.234,best-number RPC-propensity above threshold
+AC002351,continue,PH005707,0.257,best-number RPC-propensity above threshold
+AC002352,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002353,continue,PH005711,0.271,best-number RPC-propensity above threshold
+AC002354,switch_channel,PH005712,0.053,valid but avoiding -> WhatsApp/field instead of redial
+AC002355,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002356,continue,PH005715,0.237,best-number RPC-propensity above threshold
+AC002357,continue,PH005717,0.375,best-number RPC-propensity above threshold
+AC002358,continue,PH005719,0.375,best-number RPC-propensity above threshold
+AC002359,continue,PH005914,0.174,best-number RPC-propensity above threshold
+AC002360,continue,PH005723,0.221,best-number RPC-propensity above threshold
+AC002361,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002362,continue,PH005727,0.221,best-number RPC-propensity above threshold
+AC002363,continue,PH005729,0.221,best-number RPC-propensity above threshold
+AC002364,continue,PH005831,0.237,best-number RPC-propensity above threshold
+AC002365,continue,PH005929,0.237,best-number RPC-propensity above threshold
+AC002366,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002367,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002368,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002369,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002370,continue,PH005741,0.153,best-number RPC-propensity above threshold
+AC002371,continue,PH005745,0.237,best-number RPC-propensity above threshold
+AC002372,continue,PH005748,0.271,best-number RPC-propensity above threshold
+AC002373,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002374,continue,PH005751,0.271,best-number RPC-propensity above threshold
+AC002375,continue,PH005860,0.182,best-number RPC-propensity above threshold
+AC002376,continue,PH005755,0.271,best-number RPC-propensity above threshold
+AC002377,continue,PH005757,0.375,best-number RPC-propensity above threshold
+AC002378,continue,PH005759,0.153,best-number RPC-propensity above threshold
+AC002379,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002380,continue,PH005763,0.182,best-number RPC-propensity above threshold
+AC002381,continue,PH005767,0.171,best-number RPC-propensity above threshold
+AC002382,continue,PH005769,0.174,best-number RPC-propensity above threshold
+AC002383,continue,PH005770,0.237,best-number RPC-propensity above threshold
+AC002384,continue,PH005773,0.153,best-number RPC-propensity above threshold
+AC002385,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002386,continue,PH005779,0.221,best-number RPC-propensity above threshold
+AC002387,continue,PH005781,0.171,best-number RPC-propensity above threshold
+AC002388,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002389,continue,PH005784,0.221,best-number RPC-propensity above threshold
+AC002390,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002391,continue,PH005787,0.387,best-number RPC-propensity above threshold
+AC002392,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002393,continue,PH005793,0.234,best-number RPC-propensity above threshold
+AC002394,continue,PH005796,0.153,best-number RPC-propensity above threshold
+AC002395,continue,PH005799,0.271,best-number RPC-propensity above threshold
+AC002396,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002397,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"
+AC002398,continue,PH005805,0.375,best-number RPC-propensity above threshold
+AC002399,continue,PH005807,0.221,best-number RPC-propensity above threshold
+AC002400,trace,,,"no reachable/callable point -> skip-trace (rank by EV, see §13)"

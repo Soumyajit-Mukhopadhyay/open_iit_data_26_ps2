@@ -1,0 +1,183 @@
+Background
+Every tele-call and field visit assumes that the phone number or
+address on file still reaches the borrower. In practice, a large
+share of dial attempts and visits go to contact points that are
+dead, recycled to a new subscriber, belong to a relative or former
+employer, or were wrong from the start. This is usually
+discovered slowly: a number rings out for weeks before anyone
+acts, or an address is visited three times before it is marked
+untraceable.
+ 
+Skip-tracing is expensive and is normally triggered by a fixed
+attempt count rather than by evidence. As a result, it comes too
+late for the accounts that needed it and is wasted on accounts
+where the borrower was simply not answering.
+ 
+The question that matters, whether a specific contact point still
+reaches a specific borrower, is rarely modelled on its own. It is
+usually folded into an account-level "contactability" score,
+which hides the actual decision: which number to dial, which
+address to visit, and when to stop and trace.
+ Contact pointState Right response
+Phone Valid and reachable Keep dialling, at the best time
+slot
+Phone Valid, but borrower avoidingSwitch channel (WhatsApp,
+field) instead of redialling
+Phone Temporarily unreachableRetry later, with backoff
+Phone Switched off long-termMove to another number, or
+trace
+Phone Recycled to a new subscriberStop at once; there is a risk of
+disclosing the debt to a
+stranger
+Phone Third party (relative,
+employer, reference)
+Use only within Fair Practices
+Code rules, never discuss the
+debt
+Phone Invalid from the start Trace
+Address Valid and occupied Visit
+Address Valid, but borrower usually
+absent
+Change the visit time
+Address Borrower has moved Trace the new address
+Address Hard to find on the groundResolve the location (Problem
+Statement 3) before writing it
+off
+Address Fabricated or incomplete at
+origination
+Trace, and flag to the
+origination team
+Objective
+A model that predicts, for every phone number and address on
+file, how likely it is to reach the borrower, that is, to produce a
+right-party contact (RPC) in tele or field. A prioritisation layer
+then decides, for each account, whether to keep trying, switch to
+another contact point or channel, or trigger a skip-trace, with
+skip-traces ranked by the expected recovery value of finding the
+borrower.
+ 
+This is a prediction made before the call or visit. Checking
+during a call whether the person who answered is actually the
+borrower is a separate identity-verification problem and is out of
+scope.
+ 
+Key things to solve:
+ 
+- Building labels. True health is never observed directly. A
+right-party contact is only recorded when someone dialled,
+the borrower answered and the agent logged it correctly,
+and many contact points have never been tested at all.
+- Avoiding versus invalid. A borrower who won't answer and
+a dead number look similar on the surface but need
+opposite actions: switch channel for the first, trace for the
+second. Separating them is the central modelling problem.
+- Recycled numbers. Telecom operators reassign inactive
+numbers to new subscribers without any explicit signal.
+Calling a recycled number wastes effort and risks
+disclosing the debt to a stranger, which breaches the Fair
+Practices Code.
+- Health changes over time. The model needs to estimate how
+long a contact point is likely to stay valid, so that
+confidence falls as evidence ages. A survival or hidden-
+state model fits this better than a one-off classifier.
+- When to trace. A skip-trace is worth it when the expected
+recovery from finding a valid contact point, given the
+amount outstanding and the chance of recovery once
+reached, is higher than the trace cost. This is a value-of-
+information decision, not a fixed attempt count.
+- Feedback loops. Once the score decides which numbers get
+dialled, it also shapes the data it learns from. A small,
+explicit exploration budget keeps low-scored contact points
+from being starved of the evidence that would correct them.
+Key signals
+- Telephony: attempt history by time slot, ring duration,
+answer and immediate-hangup patterns, network responses
+("switched off", "not reachable", "does not exist"), and time
+since the last right-party contact on the number.
+- Dispositions and remarks: wrong-number and third-party
+dispositions, agent remarks ("phone uthaya bhai ne",
+"number band hai 2 mahine se") and voice-bot transcripts
+showing who answered.
+- Shared contact points: the same number or address
+appearing across several borrowers, lenders or co-borrower
+records, which often points to a reference, shared or
+recycled contact.
+- Field visits: outcomes at the address, GPS dwell at check-in,
+and the difference between "locked premises" and "nobody
+of that name here".
+- Record history: where the contact point came from (KYC at
+origination, a later update, the bureau, the borrower during
+a call), how old it is, and whether it was ever confirmed by
+a contact that led to a payment.
+Suggested phasing
+The core question and the final decision are the same for both
+channels, so this stays one problem. The data is not: phone data
+is dense, with many attempts a day, while field data is sparse and
+costly, with a few visits a month. The work is therefore phased:
+ 
+- Weeks 1 to 6: phone numbers. Build health scoring for
+phone contact points, the avoiding-versus-invalid split and
+the recycled-number check, and integrate with the CN
+dialer and the compliance suppression list.
+- Weeks 7 to 12: addresses and field evidence. Add address
+health, bring field visit outcomes into the same model, use
+location confidence from Problem Statement 3, and switch
+on the account-level skip-trace decision across all contact
+points.
+Expected outcome
+A right-party contact prediction service running inside the CN
+platform, integrated as follows:
+ 
+- Input from CN: dial attempt logs and network responses
+from the CN dialer, dispositions and remarks, voice-bot
+transcripts, field visit outcomes from the CN field app, and
+contact-point source and history from account records.
+- CN dialer: dial lists ordered by contact-point health, so the
+best number for each account is tried first and dead
+numbers drop out.
+- CN campaign engine: the recommended action for each
+account (continue, switch contact point, switch channel,
+trace), with a reason code, applied as campaign rules.
+- CN skip-trace queue: accounts ranked by the expected value
+of tracing, replacing the fixed attempt-count trigger.
+- CN compliance controls: a suppression list for recycled and
+third-party numbers, so the debt is never discussed with the
+wrong person.
+- CN visit planner: address health used in visit selection,
+alongside location confidence from Problem Statement 3.
+Key metrics
+- Right-party contact rate per thousand dial attempts and per
+hundred field visits, compared with current rules
+- AUC and calibration of the right-party contact prediction for
+each contact point
+- Attempts and visits spent on invalid contact points before
+action is taken
+- Skip-trace hit rate and recovery from traced accounts,
+compared with the fixed attempt-count rule
+- Third-party disclosure incidents (target: zero)
+Constraints
+The debt is never disclosed to a third party, as required by the
+Fair Practices Code. Contact data from bureaus and references is
+used only for the purpose it was collected for, under DPDP.
+Skip-trace sources must be lawful and auditable. Scores are
+refreshed daily so that they are ready for outbound planning.
+ 
+ 
+Problem Statement 3: Address Geocoder That Learns from Field Visits
+Background
+Field collections depends on finding the borrower, and that
+depends on an address that is often a description rather than a
+location: "near Hanuman temple, behind ration shop, 2nd cross,
+Kamakshipalya". Commercial geocoders place addresses like
+this at the pincode or locality centre, which in tier-2, tier-3 and
+rural areas can be hundreds of metres or even several kilometres
+from the actual house. Agents spend much of their day searching
+and asking neighbours. Eventually they mark accounts "address
+not traceable", including some where the borrower lives exactly
+where the address says.
+ 
+Meanwhile, the answer already exists for a large share of
+accounts: the GPS location where an agent actually met the
+borrower on an earlier visit. Today that sits in visit logs and
+never flows back into the address record.
+ 

@@ -1,0 +1,19 @@
+# Render blueprint — CreditNirvana PS2 backend (FastAPI + LightGBM model weights).
+# This ONE service also serves the static frontend, so it works standalone
+# (you don't strictly need Vercel). See README_DEPLOY.md.
+services:
+  - type: web
+    name: creditnirvana-ps2
+    runtime: python
+    plan: free
+    region: singapore            # closest to India; change if you prefer
+    rootDir: ps2_dashboard/backend
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "uvicorn app:app --host 0.0.0.0 --port $PORT"
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.12.4"
+      - key: ART_DIR
+        value: "/opt/render/project/src/ps2_model_artifacts"
+      - key: ALLOW_ORIGINS
+        value: "*"               # tighten to your Vercel URL once known

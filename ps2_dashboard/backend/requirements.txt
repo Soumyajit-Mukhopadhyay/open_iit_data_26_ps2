@@ -1,0 +1,12 @@
+# Pinned to match the environment the model artifacts were pickled in.
+# sklearn / lightgbm pickles are version-sensitive — do not loosen these.
+fastapi==0.129.0
+uvicorn[standard]==0.40.0
+pydantic==2.12.5
+starlette==0.52.1
+joblib==1.4.2
+scikit-learn==1.5.1
+lightgbm==4.7.0
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.1

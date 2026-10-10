@@ -1,0 +1,31 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# ---- OS / editor ----
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
+
+# ---- Node / Vercel ----
+node_modules/
+.vercel/
+
+# ---- Secrets (never commit tokens) ----
+.env
+*.env
+*token*
+*secret*
+
+# ---- Large / competition-provided / competitor material (NOT needed to run the site) ----
+OpenIIT_Data_arnav/
+Copy of 2025112.pdf
+Data_Splits-20261007T165821Z-1-001/
+ps1_fake_ptp-20261007T165850Z-1-001/
